@@ -1,0 +1,56 @@
+Project Name,Project Price,Builtup Area,BHK,Deposit,Bathrooms,Facing,Address,Status
+"Kasturi Developers
+BUILDER
+-","20,000",1132,2,No Deposit,2 bathrooms,NorthEast facing,"Ulwe, Mumbai","[<selenium.webdriver.remote.webelement.WebElement (session=""a91ae547-845e-4a2e-951c-b54343d02421"", element=""115cb268-b040-4cd3-96a0-baa88a15498e"")>]"
+"Kasturi Developers
+BUILDER
+-","36,000",1668,3,No Deposit,3 bathrooms,NorthEast facing,"Ulwe, Mumbai","[<selenium.webdriver.remote.webelement.WebElement (session=""a91ae547-845e-4a2e-951c-b54343d02421"", element=""55c886ce-1c80-4121-ae60-15450c0f9857"")>]"
+"Kasturi Developers
+BUILDER
+-","35,000",1700,3,No Deposit,3 bathrooms,NorthEast facing,"Ulwe, Mumbai","[<selenium.webdriver.remote.webelement.WebElement (session=""a91ae547-845e-4a2e-951c-b54343d02421"", element=""dab709c0-9bf2-498a-aa07-d8d6eb120414"")>]"
+"Seller
+VERIFIED OWNER","28,500",750,2,No Deposit,2 bathrooms,,"Kandivali West, Mumbai","[<selenium.webdriver.remote.webelement.WebElement (session=""a91ae547-845e-4a2e-951c-b54343d02421"", element=""b64295bd-f7a5-4994-87a4-4958d9ad420f"")>]"
+"Seller
+VERIFIED OWNER","50,000",1400,3,No Deposit,3 bathrooms,East facing,"Chembur, Mumbai","[<selenium.webdriver.remote.webelement.WebElement (session=""a91ae547-845e-4a2e-951c-b54343d02421"", element=""2c7d75fc-2dbc-4a24-bbd5-dafc0ca81809"")>]"
+"Seller
+VERIFIED OWNER","3,000",450,1,No Deposit,1 bathrooms,East facing,"Badlapur East, Mumbai","[<selenium.webdriver.remote.webelement.WebElement (session=""a91ae547-845e-4a2e-951c-b54343d02421"", element=""cca844a1-cc0c-4804-85ab-1a5186af5a95"")>]"
+"Seller
+VERIFIED OWNER","9,500",700,1,No Deposit,2 bathrooms,,"Dombivali, Mumbai","[<selenium.webdriver.remote.webelement.WebElement (session=""a91ae547-845e-4a2e-951c-b54343d02421"", element=""8fd74c21-c006-48fc-b5b0-a38d3a154bae"")>]"
+"Seller
+VERIFIED OWNER","55,000",600,1,No Deposit,2 bathrooms,,"Bandra West, Mumbai","[<selenium.webdriver.remote.webelement.WebElement (session=""a91ae547-845e-4a2e-951c-b54343d02421"", element=""184f04f0-0cdb-45e1-972c-5e91d533fe1d"")>]"
+"CHERRISH ESTATE CONSULTANTS
+AGENT
+-","50,000",600,1,No Deposit,2 bathrooms,East facing,"Andheri East, Mumbai","[<selenium.webdriver.remote.webelement.WebElement (session=""a91ae547-845e-4a2e-951c-b54343d02421"", element=""9a4c31aa-98d5-4e8b-9945-7116e2eef352"")>]"
+"Kharghar Homes
+AGENT
+-","9,000",510,1,No Deposit,1 bathrooms,East facing,"Kharghar, Mumbai","[<selenium.webdriver.remote.webelement.WebElement (session=""a91ae547-845e-4a2e-951c-b54343d02421"", element=""cf10efa1-326b-4a11-a83c-f8479e676381"")>]"
+"Ankur Real Estate Agent Palghar
+AGENT
+-","4,500",650,1,No Deposit,2 bathrooms,West facing,"Palghar, Mumbai","[<selenium.webdriver.remote.webelement.WebElement (session=""a91ae547-845e-4a2e-951c-b54343d02421"", element=""880ce30e-b7b5-42d8-9425-36b28369e488"")>]"
+"ROYAL REALTY
+AGENT
+-","77,000",1300,3,No Deposit,2 bathrooms,,"Kandivali East, Mumbai","[<selenium.webdriver.remote.webelement.WebElement (session=""a91ae547-845e-4a2e-951c-b54343d02421"", element=""51a2bdf7-f4ca-4b1c-ab97-a7184c112804"")>]"
+"Balaji Propiedad
+AGENT
+-","50,000",865,2,No Deposit,2 bathrooms,,"Vikhroli, Mumbai","[<selenium.webdriver.remote.webelement.WebElement (session=""a91ae547-845e-4a2e-951c-b54343d02421"", element=""1be8961a-698b-41d7-813f-65fc2ac1b2da"")>]"
+"Sakshi Esate Consultancy
+AGENT
+-","24,000",750,1,No Deposit,2 bathrooms,,"Bhandup West, Mumbai","[<selenium.webdriver.remote.webelement.WebElement (session=""a91ae547-845e-4a2e-951c-b54343d02421"", element=""ecbe535b-86ee-496d-8734-828dc319b7b2"")>]"
+"Kalyani Real Estate
+AGENT
+-","25,000",830,2,No Deposit,2 bathrooms,East facing,"Thane West, Mumbai","[<selenium.webdriver.remote.webelement.WebElement (session=""a91ae547-845e-4a2e-951c-b54343d02421"", element=""9588584a-c1c9-48d3-8282-c888e9fbf447"")>]"
+"Individual Agent
+AGENT
+-","50,000",900,2,No Deposit,2 bathrooms,,"Andheri East, Mumbai","[<selenium.webdriver.remote.webelement.WebElement (session=""a91ae547-845e-4a2e-951c-b54343d02421"", element=""afe86206-d184-4e60-bb1b-ec82c90343f2"")>]"
+"Home On Sense Enterprises
+AGENT
+-","9,000",960,2,No Deposit,2 bathrooms,East facing,"Badlapur East, Mumbai","[<selenium.webdriver.remote.webelement.WebElement (session=""a91ae547-845e-4a2e-951c-b54343d02421"", element=""a12f0fad-2d84-4d5c-8f6c-7676ad9ddfe9"")>]"
+"Arise Real Estate And Consultant
+AGENT
+-","72,000",700,2,No Deposit,3 bathrooms,West facing,"Andheri West, Mumbai","[<selenium.webdriver.remote.webelement.WebElement (session=""a91ae547-845e-4a2e-951c-b54343d02421"", element=""005d6f35-742a-47bb-a171-82e5533b7afa"")>]"
+"The Great Royal Estate Agency
+AGENT
+-","82,000",1500,3,No Deposit,3 bathrooms,North facing,"Borivali East, Mumbai","[<selenium.webdriver.remote.webelement.WebElement (session=""a91ae547-845e-4a2e-951c-b54343d02421"", element=""77ee37fa-35a9-4061-b587-77f1e86c2b62"")>]"
+"AN Properties
+AGENT
+-","31,000",450,1,No Deposit,1 bathrooms,,"Jogeshwari East, Mumbai","[<selenium.webdriver.remote.webelement.WebElement (session=""a91ae547-845e-4a2e-951c-b54343d02421"", element=""949142c4-8276-4dce-849e-e752bf89ca2e"")>]"
