@@ -1,0 +1,1009 @@
+broker_consultancy,Rent,Area,appartment_type,Deposit,Bathrooms,Facing,Address,Apartment Name,Status
+"Seller
+VERIFIED OWNER",24000,1200,3,No Deposit,3 bathrooms,,"Permat, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,650,2,"15,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",23000,1575,3,"46,000 deposit",3 bathrooms,,"Kalyanpur, Kanpur",Shyam Kanha Shyam Residency,Semi-Furnished
+"Seller
+VERIFIED OWNER",12000,850,3,"12,000 deposit",4 bathrooms,,"Kalyanpur, Kanpur",,Furnished
+"Seller
+VERIFIED OWNER",9000,820,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",9000,1200,2,No Deposit,1 bathrooms,NorthWest facing,"Yashoda Nagar, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12000,900,2,"24,000 deposit",2 bathrooms,,"Jajmau, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",11500,1722,2,"23,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12500,1100,2,No Deposit,2 bathrooms,,"Kalyanpur, Kanpur",Dolphin Anand Gooba Garden,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,1250,3,No Deposit,1 bathrooms,,"Shukla Ganj, Kanpur",,Unfurnished
+"Vishoo
+AGENT
+0",9000,1100,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Vinay Properties
+AGENT
+0",20000,1500,3,"20,000 deposit",3 bathrooms,,"Shastri Nagar, Kanpur",,Semi-Furnished
+"Consultant
+AGENT
+0",13900,1500,3,"13,900 deposit",2 bathrooms,,"Kaushalpuri, Kanpur",Manoj Enclave,Semi-Furnished
+"Prakash
+AGENT
+0",9000,663,1,"9,000 deposit",1 bathrooms,,"Kalyanpur, Kanpur",Vatsala Apartment,Furnished
+"Vinay Properties
+AGENT
+0",40000,2300,4,"40,000 deposit",3 bathrooms,,"Tilak Nagar, Kanpur",,Semi-Furnished
+"Kalra
+AGENT
+0",9999,1100,2,"9,999 deposit",2 bathrooms,,"Kakadev, Kanpur",Jamuna Apartment,Semi-Furnished
+"Amit Kumar Srivastava
+OWNER",8000,600,2,"5,000 deposit",1 bathrooms,,"Yashoda Nagar, Kanpur",,Semi-Furnished
+"Vishoo
+AGENT
+0",14900,1514,3,"14,900 deposit",2 bathrooms,,"Shastri Nagar, Kanpur",Utsav Apartment,Semi-Furnished
+"Guest
+OWNER",9000,900,2,"9,000 deposit",2 bathrooms,,"Kanpur University, Kanpur",,Furnished
+"Consultant
+AGENT
+0",13900,1450,3,"13,900 deposit",2 bathrooms,,"Harsh Nagar, Kanpur",Kajal Apartment,Semi-Furnished
+"Seller
+VERIFIED OWNER",24000,1200,3,No Deposit,3 bathrooms,,"Permat, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,650,2,"15,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",23000,1575,3,"46,000 deposit",3 bathrooms,,"Kalyanpur, Kanpur",Shyam Kanha Shyam Residency,Semi-Furnished
+"Seller
+VERIFIED OWNER",12000,850,3,"12,000 deposit",4 bathrooms,,"Kalyanpur, Kanpur",,Furnished
+"Seller
+VERIFIED OWNER",9000,820,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",9000,1200,2,No Deposit,1 bathrooms,NorthWest facing,"Yashoda Nagar, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12000,900,2,"24,000 deposit",2 bathrooms,,"Jajmau, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",11500,1722,2,"23,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12500,1100,2,No Deposit,2 bathrooms,,"Kalyanpur, Kanpur",Dolphin Anand Gooba Garden,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,1250,3,No Deposit,1 bathrooms,,"Shukla Ganj, Kanpur",,Unfurnished
+"Vishoo
+AGENT
+0",9000,1100,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Vinay Properties
+AGENT
+0",20000,1500,3,"20,000 deposit",3 bathrooms,,"Shastri Nagar, Kanpur",,Semi-Furnished
+"Consultant
+AGENT
+0",13900,1500,3,"13,900 deposit",2 bathrooms,,"Kaushalpuri, Kanpur",Manoj Enclave,Semi-Furnished
+"Prakash
+AGENT
+0",9000,663,1,"9,000 deposit",1 bathrooms,,"Kalyanpur, Kanpur",Vatsala Apartment,Furnished
+"Vinay Properties
+AGENT
+0",40000,2300,4,"40,000 deposit",3 bathrooms,,"Tilak Nagar, Kanpur",,Semi-Furnished
+"Kalra
+AGENT
+0",9999,1100,2,"9,999 deposit",2 bathrooms,,"Kakadev, Kanpur",Jamuna Apartment,Semi-Furnished
+"Amit Kumar Srivastava
+OWNER",8000,600,2,"5,000 deposit",1 bathrooms,,"Yashoda Nagar, Kanpur",,Semi-Furnished
+"Vishoo
+AGENT
+0",14900,1514,3,"14,900 deposit",2 bathrooms,,"Shastri Nagar, Kanpur",Utsav Apartment,Semi-Furnished
+"Guest
+OWNER",9000,900,2,"9,000 deposit",2 bathrooms,,"Kanpur University, Kanpur",,Furnished
+"Consultant
+AGENT
+0",13900,1450,3,"13,900 deposit",2 bathrooms,,"Harsh Nagar, Kanpur",Kajal Apartment,Semi-Furnished
+"Seller
+VERIFIED OWNER",24000,1200,3,No Deposit,3 bathrooms,,"Permat, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,650,2,"15,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",23000,1575,3,"46,000 deposit",3 bathrooms,,"Kalyanpur, Kanpur",Shyam Kanha Shyam Residency,Semi-Furnished
+"Seller
+VERIFIED OWNER",12000,850,3,"12,000 deposit",4 bathrooms,,"Kalyanpur, Kanpur",,Furnished
+"Seller
+VERIFIED OWNER",9000,820,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",9000,1200,2,No Deposit,1 bathrooms,NorthWest facing,"Yashoda Nagar, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12000,900,2,"24,000 deposit",2 bathrooms,,"Jajmau, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",11500,1722,2,"23,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12500,1100,2,No Deposit,2 bathrooms,,"Kalyanpur, Kanpur",Dolphin Anand Gooba Garden,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,1250,3,No Deposit,1 bathrooms,,"Shukla Ganj, Kanpur",,Unfurnished
+"Vishoo
+AGENT
+0",9000,1100,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Vinay Properties
+AGENT
+0",20000,1500,3,"20,000 deposit",3 bathrooms,,"Shastri Nagar, Kanpur",,Semi-Furnished
+"Consultant
+AGENT
+0",13900,1500,3,"13,900 deposit",2 bathrooms,,"Kaushalpuri, Kanpur",Manoj Enclave,Semi-Furnished
+"Prakash
+AGENT
+0",9000,663,1,"9,000 deposit",1 bathrooms,,"Kalyanpur, Kanpur",Vatsala Apartment,Furnished
+"Vinay Properties
+AGENT
+0",40000,2300,4,"40,000 deposit",3 bathrooms,,"Tilak Nagar, Kanpur",,Semi-Furnished
+"Kalra
+AGENT
+0",9999,1100,2,"9,999 deposit",2 bathrooms,,"Kakadev, Kanpur",Jamuna Apartment,Semi-Furnished
+"Amit Kumar Srivastava
+OWNER",8000,600,2,"5,000 deposit",1 bathrooms,,"Yashoda Nagar, Kanpur",,Semi-Furnished
+"Vishoo
+AGENT
+0",14900,1514,3,"14,900 deposit",2 bathrooms,,"Shastri Nagar, Kanpur",Utsav Apartment,Semi-Furnished
+"Guest
+OWNER",9000,900,2,"9,000 deposit",2 bathrooms,,"Kanpur University, Kanpur",,Furnished
+"Consultant
+AGENT
+0",13900,1450,3,"13,900 deposit",2 bathrooms,,"Harsh Nagar, Kanpur",Kajal Apartment,Semi-Furnished
+"Seller
+VERIFIED OWNER",24000,1200,3,No Deposit,3 bathrooms,,"Permat, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,650,2,"15,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",23000,1575,3,"46,000 deposit",3 bathrooms,,"Kalyanpur, Kanpur",Shyam Kanha Shyam Residency,Semi-Furnished
+"Seller
+VERIFIED OWNER",12000,850,3,"12,000 deposit",4 bathrooms,,"Kalyanpur, Kanpur",,Furnished
+"Seller
+VERIFIED OWNER",9000,820,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",9000,1200,2,No Deposit,1 bathrooms,NorthWest facing,"Yashoda Nagar, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12000,900,2,"24,000 deposit",2 bathrooms,,"Jajmau, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",11500,1722,2,"23,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12500,1100,2,No Deposit,2 bathrooms,,"Kalyanpur, Kanpur",Dolphin Anand Gooba Garden,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,1250,3,No Deposit,1 bathrooms,,"Shukla Ganj, Kanpur",,Unfurnished
+"Vishoo
+AGENT
+0",9000,1100,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Vinay Properties
+AGENT
+0",20000,1500,3,"20,000 deposit",3 bathrooms,,"Shastri Nagar, Kanpur",,Semi-Furnished
+"Consultant
+AGENT
+0",13900,1500,3,"13,900 deposit",2 bathrooms,,"Kaushalpuri, Kanpur",Manoj Enclave,Semi-Furnished
+"Prakash
+AGENT
+0",9000,663,1,"9,000 deposit",1 bathrooms,,"Kalyanpur, Kanpur",Vatsala Apartment,Furnished
+"Vinay Properties
+AGENT
+0",40000,2300,4,"40,000 deposit",3 bathrooms,,"Tilak Nagar, Kanpur",,Semi-Furnished
+"Kalra
+AGENT
+0",9999,1100,2,"9,999 deposit",2 bathrooms,,"Kakadev, Kanpur",Jamuna Apartment,Semi-Furnished
+"Amit Kumar Srivastava
+OWNER",8000,600,2,"5,000 deposit",1 bathrooms,,"Yashoda Nagar, Kanpur",,Semi-Furnished
+"Vishoo
+AGENT
+0",14900,1514,3,"14,900 deposit",2 bathrooms,,"Shastri Nagar, Kanpur",Utsav Apartment,Semi-Furnished
+"Guest
+OWNER",9000,900,2,"9,000 deposit",2 bathrooms,,"Kanpur University, Kanpur",,Furnished
+"Consultant
+AGENT
+0",13900,1450,3,"13,900 deposit",2 bathrooms,,"Harsh Nagar, Kanpur",Kajal Apartment,Semi-Furnished
+"Seller
+VERIFIED OWNER",24000,1200,3,No Deposit,3 bathrooms,,"Permat, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,650,2,"15,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",23000,1575,3,"46,000 deposit",3 bathrooms,,"Kalyanpur, Kanpur",Shyam Kanha Shyam Residency,Semi-Furnished
+"Seller
+VERIFIED OWNER",12000,850,3,"12,000 deposit",4 bathrooms,,"Kalyanpur, Kanpur",,Furnished
+"Seller
+VERIFIED OWNER",9000,820,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",9000,1200,2,No Deposit,1 bathrooms,NorthWest facing,"Yashoda Nagar, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12000,900,2,"24,000 deposit",2 bathrooms,,"Jajmau, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",11500,1722,2,"23,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12500,1100,2,No Deposit,2 bathrooms,,"Kalyanpur, Kanpur",Dolphin Anand Gooba Garden,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,1250,3,No Deposit,1 bathrooms,,"Shukla Ganj, Kanpur",,Unfurnished
+"Vishoo
+AGENT
+0",9000,1100,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Vinay Properties
+AGENT
+0",20000,1500,3,"20,000 deposit",3 bathrooms,,"Shastri Nagar, Kanpur",,Semi-Furnished
+"Consultant
+AGENT
+0",13900,1500,3,"13,900 deposit",2 bathrooms,,"Kaushalpuri, Kanpur",Manoj Enclave,Semi-Furnished
+"Prakash
+AGENT
+0",9000,663,1,"9,000 deposit",1 bathrooms,,"Kalyanpur, Kanpur",Vatsala Apartment,Furnished
+"Vinay Properties
+AGENT
+0",40000,2300,4,"40,000 deposit",3 bathrooms,,"Tilak Nagar, Kanpur",,Semi-Furnished
+"Kalra
+AGENT
+0",9999,1100,2,"9,999 deposit",2 bathrooms,,"Kakadev, Kanpur",Jamuna Apartment,Semi-Furnished
+"Amit Kumar Srivastava
+OWNER",8000,600,2,"5,000 deposit",1 bathrooms,,"Yashoda Nagar, Kanpur",,Semi-Furnished
+"Vishoo
+AGENT
+0",14900,1514,3,"14,900 deposit",2 bathrooms,,"Shastri Nagar, Kanpur",Utsav Apartment,Semi-Furnished
+"Guest
+OWNER",9000,900,2,"9,000 deposit",2 bathrooms,,"Kanpur University, Kanpur",,Furnished
+"Consultant
+AGENT
+0",13900,1450,3,"13,900 deposit",2 bathrooms,,"Harsh Nagar, Kanpur",Kajal Apartment,Semi-Furnished
+"Seller
+VERIFIED OWNER",24000,1200,3,No Deposit,3 bathrooms,,"Permat, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,650,2,"15,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",23000,1575,3,"46,000 deposit",3 bathrooms,,"Kalyanpur, Kanpur",Shyam Kanha Shyam Residency,Semi-Furnished
+"Seller
+VERIFIED OWNER",12000,850,3,"12,000 deposit",4 bathrooms,,"Kalyanpur, Kanpur",,Furnished
+"Seller
+VERIFIED OWNER",9000,820,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",9000,1200,2,No Deposit,1 bathrooms,NorthWest facing,"Yashoda Nagar, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12000,900,2,"24,000 deposit",2 bathrooms,,"Jajmau, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",11500,1722,2,"23,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12500,1100,2,No Deposit,2 bathrooms,,"Kalyanpur, Kanpur",Dolphin Anand Gooba Garden,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,1250,3,No Deposit,1 bathrooms,,"Shukla Ganj, Kanpur",,Unfurnished
+"Vishoo
+AGENT
+0",9000,1100,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Vinay Properties
+AGENT
+0",20000,1500,3,"20,000 deposit",3 bathrooms,,"Shastri Nagar, Kanpur",,Semi-Furnished
+"Consultant
+AGENT
+0",13900,1500,3,"13,900 deposit",2 bathrooms,,"Kaushalpuri, Kanpur",Manoj Enclave,Semi-Furnished
+"Prakash
+AGENT
+0",9000,663,1,"9,000 deposit",1 bathrooms,,"Kalyanpur, Kanpur",Vatsala Apartment,Furnished
+"Vinay Properties
+AGENT
+0",40000,2300,4,"40,000 deposit",3 bathrooms,,"Tilak Nagar, Kanpur",,Semi-Furnished
+"Kalra
+AGENT
+0",9999,1100,2,"9,999 deposit",2 bathrooms,,"Kakadev, Kanpur",Jamuna Apartment,Semi-Furnished
+"Amit Kumar Srivastava
+OWNER",8000,600,2,"5,000 deposit",1 bathrooms,,"Yashoda Nagar, Kanpur",,Semi-Furnished
+"Vishoo
+AGENT
+0",14900,1514,3,"14,900 deposit",2 bathrooms,,"Shastri Nagar, Kanpur",Utsav Apartment,Semi-Furnished
+"Guest
+OWNER",9000,900,2,"9,000 deposit",2 bathrooms,,"Kanpur University, Kanpur",,Furnished
+"Consultant
+AGENT
+0",13900,1450,3,"13,900 deposit",2 bathrooms,,"Harsh Nagar, Kanpur",Kajal Apartment,Semi-Furnished
+"Seller
+VERIFIED OWNER",24000,1200,3,No Deposit,3 bathrooms,,"Permat, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,650,2,"15,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",23000,1575,3,"46,000 deposit",3 bathrooms,,"Kalyanpur, Kanpur",Shyam Kanha Shyam Residency,Semi-Furnished
+"Seller
+VERIFIED OWNER",12000,850,3,"12,000 deposit",4 bathrooms,,"Kalyanpur, Kanpur",,Furnished
+"Seller
+VERIFIED OWNER",9000,820,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",9000,1200,2,No Deposit,1 bathrooms,NorthWest facing,"Yashoda Nagar, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12000,900,2,"24,000 deposit",2 bathrooms,,"Jajmau, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",11500,1722,2,"23,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12500,1100,2,No Deposit,2 bathrooms,,"Kalyanpur, Kanpur",Dolphin Anand Gooba Garden,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,1250,3,No Deposit,1 bathrooms,,"Shukla Ganj, Kanpur",,Unfurnished
+"Vishoo
+AGENT
+0",9000,1100,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Vinay Properties
+AGENT
+0",20000,1500,3,"20,000 deposit",3 bathrooms,,"Shastri Nagar, Kanpur",,Semi-Furnished
+"Consultant
+AGENT
+0",13900,1500,3,"13,900 deposit",2 bathrooms,,"Kaushalpuri, Kanpur",Manoj Enclave,Semi-Furnished
+"Prakash
+AGENT
+0",9000,663,1,"9,000 deposit",1 bathrooms,,"Kalyanpur, Kanpur",Vatsala Apartment,Furnished
+"Vinay Properties
+AGENT
+0",40000,2300,4,"40,000 deposit",3 bathrooms,,"Tilak Nagar, Kanpur",,Semi-Furnished
+"Kalra
+AGENT
+0",9999,1100,2,"9,999 deposit",2 bathrooms,,"Kakadev, Kanpur",Jamuna Apartment,Semi-Furnished
+"Amit Kumar Srivastava
+OWNER",8000,600,2,"5,000 deposit",1 bathrooms,,"Yashoda Nagar, Kanpur",,Semi-Furnished
+"Vishoo
+AGENT
+0",14900,1514,3,"14,900 deposit",2 bathrooms,,"Shastri Nagar, Kanpur",Utsav Apartment,Semi-Furnished
+"Guest
+OWNER",9000,900,2,"9,000 deposit",2 bathrooms,,"Kanpur University, Kanpur",,Furnished
+"Consultant
+AGENT
+0",13900,1450,3,"13,900 deposit",2 bathrooms,,"Harsh Nagar, Kanpur",Kajal Apartment,Semi-Furnished
+"Seller
+VERIFIED OWNER",24000,1200,3,No Deposit,3 bathrooms,,"Permat, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,650,2,"15,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",23000,1575,3,"46,000 deposit",3 bathrooms,,"Kalyanpur, Kanpur",Shyam Kanha Shyam Residency,Semi-Furnished
+"Seller
+VERIFIED OWNER",12000,850,3,"12,000 deposit",4 bathrooms,,"Kalyanpur, Kanpur",,Furnished
+"Seller
+VERIFIED OWNER",9000,820,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",9000,1200,2,No Deposit,1 bathrooms,NorthWest facing,"Yashoda Nagar, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12000,900,2,"24,000 deposit",2 bathrooms,,"Jajmau, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",11500,1722,2,"23,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12500,1100,2,No Deposit,2 bathrooms,,"Kalyanpur, Kanpur",Dolphin Anand Gooba Garden,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,1250,3,No Deposit,1 bathrooms,,"Shukla Ganj, Kanpur",,Unfurnished
+"Vishoo
+AGENT
+0",9000,1100,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Vinay Properties
+AGENT
+0",20000,1500,3,"20,000 deposit",3 bathrooms,,"Shastri Nagar, Kanpur",,Semi-Furnished
+"Consultant
+AGENT
+0",13900,1500,3,"13,900 deposit",2 bathrooms,,"Kaushalpuri, Kanpur",Manoj Enclave,Semi-Furnished
+"Prakash
+AGENT
+0",9000,663,1,"9,000 deposit",1 bathrooms,,"Kalyanpur, Kanpur",Vatsala Apartment,Furnished
+"Vinay Properties
+AGENT
+0",40000,2300,4,"40,000 deposit",3 bathrooms,,"Tilak Nagar, Kanpur",,Semi-Furnished
+"Kalra
+AGENT
+0",9999,1100,2,"9,999 deposit",2 bathrooms,,"Kakadev, Kanpur",Jamuna Apartment,Semi-Furnished
+"Amit Kumar Srivastava
+OWNER",8000,600,2,"5,000 deposit",1 bathrooms,,"Yashoda Nagar, Kanpur",,Semi-Furnished
+"Vishoo
+AGENT
+0",14900,1514,3,"14,900 deposit",2 bathrooms,,"Shastri Nagar, Kanpur",Utsav Apartment,Semi-Furnished
+"Guest
+OWNER",9000,900,2,"9,000 deposit",2 bathrooms,,"Kanpur University, Kanpur",,Furnished
+"Consultant
+AGENT
+0",13900,1450,3,"13,900 deposit",2 bathrooms,,"Harsh Nagar, Kanpur",Kajal Apartment,Semi-Furnished
+"Seller
+VERIFIED OWNER",24000,1200,3,No Deposit,3 bathrooms,,"Permat, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,650,2,"15,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",23000,1575,3,"46,000 deposit",3 bathrooms,,"Kalyanpur, Kanpur",Shyam Kanha Shyam Residency,Semi-Furnished
+"Seller
+VERIFIED OWNER",12000,850,3,"12,000 deposit",4 bathrooms,,"Kalyanpur, Kanpur",,Furnished
+"Seller
+VERIFIED OWNER",9000,820,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",9000,1200,2,No Deposit,1 bathrooms,NorthWest facing,"Yashoda Nagar, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12000,900,2,"24,000 deposit",2 bathrooms,,"Jajmau, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",11500,1722,2,"23,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12500,1100,2,No Deposit,2 bathrooms,,"Kalyanpur, Kanpur",Dolphin Anand Gooba Garden,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,1250,3,No Deposit,1 bathrooms,,"Shukla Ganj, Kanpur",,Unfurnished
+"Vishoo
+AGENT
+0",9000,1100,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Vinay Properties
+AGENT
+0",20000,1500,3,"20,000 deposit",3 bathrooms,,"Shastri Nagar, Kanpur",,Semi-Furnished
+"Consultant
+AGENT
+0",13900,1500,3,"13,900 deposit",2 bathrooms,,"Kaushalpuri, Kanpur",Manoj Enclave,Semi-Furnished
+"Prakash
+AGENT
+0",9000,663,1,"9,000 deposit",1 bathrooms,,"Kalyanpur, Kanpur",Vatsala Apartment,Furnished
+"Vinay Properties
+AGENT
+0",40000,2300,4,"40,000 deposit",3 bathrooms,,"Tilak Nagar, Kanpur",,Semi-Furnished
+"Kalra
+AGENT
+0",9999,1100,2,"9,999 deposit",2 bathrooms,,"Kakadev, Kanpur",Jamuna Apartment,Semi-Furnished
+"Amit Kumar Srivastava
+OWNER",8000,600,2,"5,000 deposit",1 bathrooms,,"Yashoda Nagar, Kanpur",,Semi-Furnished
+"Vishoo
+AGENT
+0",14900,1514,3,"14,900 deposit",2 bathrooms,,"Shastri Nagar, Kanpur",Utsav Apartment,Semi-Furnished
+"Guest
+OWNER",9000,900,2,"9,000 deposit",2 bathrooms,,"Kanpur University, Kanpur",,Furnished
+"Consultant
+AGENT
+0",13900,1450,3,"13,900 deposit",2 bathrooms,,"Harsh Nagar, Kanpur",Kajal Apartment,Semi-Furnished
+"Seller
+VERIFIED OWNER",24000,1200,3,No Deposit,3 bathrooms,,"Permat, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,650,2,"15,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",23000,1575,3,"46,000 deposit",3 bathrooms,,"Kalyanpur, Kanpur",Shyam Kanha Shyam Residency,Semi-Furnished
+"Seller
+VERIFIED OWNER",12000,850,3,"12,000 deposit",4 bathrooms,,"Kalyanpur, Kanpur",,Furnished
+"Seller
+VERIFIED OWNER",9000,820,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",9000,1200,2,No Deposit,1 bathrooms,NorthWest facing,"Yashoda Nagar, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12000,900,2,"24,000 deposit",2 bathrooms,,"Jajmau, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",11500,1722,2,"23,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12500,1100,2,No Deposit,2 bathrooms,,"Kalyanpur, Kanpur",Dolphin Anand Gooba Garden,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,1250,3,No Deposit,1 bathrooms,,"Shukla Ganj, Kanpur",,Unfurnished
+"Vishoo
+AGENT
+-",9000,1100,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Vinay Properties
+AGENT
+-",20000,1500,3,"20,000 deposit",3 bathrooms,,"Shastri Nagar, Kanpur",,Semi-Furnished
+"Consultant
+AGENT
+-",13900,1500,3,"13,900 deposit",2 bathrooms,,"Kaushalpuri, Kanpur",Manoj Enclave,Semi-Furnished
+"Prakash
+AGENT
+-",9000,663,1,"9,000 deposit",1 bathrooms,,"Kalyanpur, Kanpur",Vatsala Apartment,Furnished
+"Vinay Properties
+AGENT
+-",40000,2300,4,"40,000 deposit",3 bathrooms,,"Tilak Nagar, Kanpur",,Semi-Furnished
+"Kalra
+AGENT
+-",9999,1100,2,"9,999 deposit",2 bathrooms,,"Kakadev, Kanpur",Jamuna Apartment,Semi-Furnished
+"Amit Kumar Srivastava
+OWNER",8000,600,2,"5,000 deposit",1 bathrooms,,"Yashoda Nagar, Kanpur",,Semi-Furnished
+"Vishoo
+AGENT
+-",14900,1514,3,"14,900 deposit",2 bathrooms,,"Shastri Nagar, Kanpur",Utsav Apartment,Semi-Furnished
+"Guest
+OWNER",9000,900,2,"9,000 deposit",2 bathrooms,,"Kanpur University, Kanpur",,Furnished
+"Consultant
+AGENT
+-",13900,1450,3,"13,900 deposit",2 bathrooms,,"Harsh Nagar, Kanpur",Kajal Apartment,Semi-Furnished
+"Seller
+VERIFIED OWNER",24000,1200,3,No Deposit,3 bathrooms,,"Permat, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,650,2,"15,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",23000,1575,3,"46,000 deposit",3 bathrooms,,"Kalyanpur, Kanpur",Shyam Kanha Shyam Residency,Semi-Furnished
+"Seller
+VERIFIED OWNER",12000,850,3,"12,000 deposit",4 bathrooms,,"Kalyanpur, Kanpur",,Furnished
+"Seller
+VERIFIED OWNER",9000,820,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",9000,1200,2,No Deposit,1 bathrooms,NorthWest facing,"Yashoda Nagar, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12000,900,2,"24,000 deposit",2 bathrooms,,"Jajmau, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",11500,1722,2,"23,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12500,1100,2,No Deposit,2 bathrooms,,"Kalyanpur, Kanpur",Dolphin Anand Gooba Garden,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,1250,3,No Deposit,1 bathrooms,,"Shukla Ganj, Kanpur",,Unfurnished
+"Vishoo
+AGENT
+-",9000,1100,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Vinay Properties
+AGENT
+-",20000,1500,3,"20,000 deposit",3 bathrooms,,"Shastri Nagar, Kanpur",,Semi-Furnished
+"Consultant
+AGENT
+-",13900,1500,3,"13,900 deposit",2 bathrooms,,"Kaushalpuri, Kanpur",Manoj Enclave,Semi-Furnished
+"Prakash
+AGENT
+-",9000,663,1,"9,000 deposit",1 bathrooms,,"Kalyanpur, Kanpur",Vatsala Apartment,Furnished
+"Vinay Properties
+AGENT
+-",40000,2300,4,"40,000 deposit",3 bathrooms,,"Tilak Nagar, Kanpur",,Semi-Furnished
+"Kalra
+AGENT
+-",9999,1100,2,"9,999 deposit",2 bathrooms,,"Kakadev, Kanpur",Jamuna Apartment,Semi-Furnished
+"Amit Kumar Srivastava
+OWNER",8000,600,2,"5,000 deposit",1 bathrooms,,"Yashoda Nagar, Kanpur",,Semi-Furnished
+"Vishoo
+AGENT
+-",14900,1514,3,"14,900 deposit",2 bathrooms,,"Shastri Nagar, Kanpur",Utsav Apartment,Semi-Furnished
+"Guest
+OWNER",9000,900,2,"9,000 deposit",2 bathrooms,,"Kanpur University, Kanpur",,Furnished
+"Consultant
+AGENT
+-",13900,1450,3,"13,900 deposit",2 bathrooms,,"Harsh Nagar, Kanpur",Kajal Apartment,Semi-Furnished
+"Seller
+VERIFIED OWNER",24000,1200,3,No Deposit,3 bathrooms,,"Permat, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,650,2,"15,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",23000,1575,3,"46,000 deposit",3 bathrooms,,"Kalyanpur, Kanpur",Shyam Kanha Shyam Residency,Semi-Furnished
+"Seller
+VERIFIED OWNER",12000,850,3,"12,000 deposit",4 bathrooms,,"Kalyanpur, Kanpur",,Furnished
+"Seller
+VERIFIED OWNER",9000,820,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",9000,1200,2,No Deposit,1 bathrooms,NorthWest facing,"Yashoda Nagar, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12000,900,2,"24,000 deposit",2 bathrooms,,"Jajmau, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",11500,1722,2,"23,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12500,1100,2,No Deposit,2 bathrooms,,"Kalyanpur, Kanpur",Dolphin Anand Gooba Garden,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,1250,3,No Deposit,1 bathrooms,,"Shukla Ganj, Kanpur",,Unfurnished
+"Vishoo
+AGENT
+0",9000,1100,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Vinay Properties
+AGENT
+0",20000,1500,3,"20,000 deposit",3 bathrooms,,"Shastri Nagar, Kanpur",,Semi-Furnished
+"Consultant
+AGENT
+0",13900,1500,3,"13,900 deposit",2 bathrooms,,"Kaushalpuri, Kanpur",Manoj Enclave,Semi-Furnished
+"Prakash
+AGENT
+0",9000,663,1,"9,000 deposit",1 bathrooms,,"Kalyanpur, Kanpur",Vatsala Apartment,Furnished
+"Vinay Properties
+AGENT
+0",40000,2300,4,"40,000 deposit",3 bathrooms,,"Tilak Nagar, Kanpur",,Semi-Furnished
+"Kalra
+AGENT
+0",9999,1100,2,"9,999 deposit",2 bathrooms,,"Kakadev, Kanpur",Jamuna Apartment,Semi-Furnished
+"Amit Kumar Srivastava
+OWNER",8000,600,2,"5,000 deposit",1 bathrooms,,"Yashoda Nagar, Kanpur",,Semi-Furnished
+"Vishoo
+AGENT
+0",14900,1514,3,"14,900 deposit",2 bathrooms,,"Shastri Nagar, Kanpur",Utsav Apartment,Semi-Furnished
+"Guest
+OWNER",9000,900,2,"9,000 deposit",2 bathrooms,,"Kanpur University, Kanpur",,Furnished
+"Consultant
+AGENT
+0",13900,1450,3,"13,900 deposit",2 bathrooms,,"Harsh Nagar, Kanpur",Kajal Apartment,Semi-Furnished
+"Seller
+VERIFIED OWNER",24000,1200,3,No Deposit,3 bathrooms,,"Permat, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,650,2,"15,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",23000,1575,3,"46,000 deposit",3 bathrooms,,"Kalyanpur, Kanpur",Shyam Kanha Shyam Residency,Semi-Furnished
+"Seller
+VERIFIED OWNER",12000,850,3,"12,000 deposit",4 bathrooms,,"Kalyanpur, Kanpur",,Furnished
+"Seller
+VERIFIED OWNER",9000,820,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",9000,1200,2,No Deposit,1 bathrooms,NorthWest facing,"Yashoda Nagar, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12000,900,2,"24,000 deposit",2 bathrooms,,"Jajmau, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",11500,1722,2,"23,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12500,1100,2,No Deposit,2 bathrooms,,"Kalyanpur, Kanpur",Dolphin Anand Gooba Garden,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,1250,3,No Deposit,1 bathrooms,,"Shukla Ganj, Kanpur",,Unfurnished
+"Vishoo
+AGENT
+0",9000,1100,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Vinay Properties
+AGENT
+0",20000,1500,3,"20,000 deposit",3 bathrooms,,"Shastri Nagar, Kanpur",,Semi-Furnished
+"Consultant
+AGENT
+0",13900,1500,3,"13,900 deposit",2 bathrooms,,"Kaushalpuri, Kanpur",Manoj Enclave,Semi-Furnished
+"Prakash
+AGENT
+0",9000,663,1,"9,000 deposit",1 bathrooms,,"Kalyanpur, Kanpur",Vatsala Apartment,Furnished
+"Vinay Properties
+AGENT
+0",40000,2300,4,"40,000 deposit",3 bathrooms,,"Tilak Nagar, Kanpur",,Semi-Furnished
+"Kalra
+AGENT
+0",9999,1100,2,"9,999 deposit",2 bathrooms,,"Kakadev, Kanpur",Jamuna Apartment,Semi-Furnished
+"Amit Kumar Srivastava
+OWNER",8000,600,2,"5,000 deposit",1 bathrooms,,"Yashoda Nagar, Kanpur",,Semi-Furnished
+"Vishoo
+AGENT
+0",14900,1514,3,"14,900 deposit",2 bathrooms,,"Shastri Nagar, Kanpur",Utsav Apartment,Semi-Furnished
+"Guest
+OWNER",9000,900,2,"9,000 deposit",2 bathrooms,,"Kanpur University, Kanpur",,Furnished
+"Consultant
+AGENT
+0",13900,1450,3,"13,900 deposit",2 bathrooms,,"Harsh Nagar, Kanpur",Kajal Apartment,Semi-Furnished
+"Seller
+VERIFIED OWNER",24000,1200,3,No Deposit,3 bathrooms,,"Permat, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,650,2,"15,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",23000,1575,3,"46,000 deposit",3 bathrooms,,"Kalyanpur, Kanpur",Shyam Kanha Shyam Residency,Semi-Furnished
+"Seller
+VERIFIED OWNER",12000,850,3,"12,000 deposit",4 bathrooms,,"Kalyanpur, Kanpur",,Furnished
+"Seller
+VERIFIED OWNER",9000,820,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",9000,1200,2,No Deposit,1 bathrooms,NorthWest facing,"Yashoda Nagar, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12000,900,2,"24,000 deposit",2 bathrooms,,"Jajmau, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",11500,1722,2,"23,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12500,1100,2,No Deposit,2 bathrooms,,"Kalyanpur, Kanpur",Dolphin Anand Gooba Garden,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,1250,3,No Deposit,1 bathrooms,,"Shukla Ganj, Kanpur",,Unfurnished
+"Vishoo
+AGENT
+0",9000,1100,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Vinay Properties
+AGENT
+0",20000,1500,3,"20,000 deposit",3 bathrooms,,"Shastri Nagar, Kanpur",,Semi-Furnished
+"Consultant
+AGENT
+0",13900,1500,3,"13,900 deposit",2 bathrooms,,"Kaushalpuri, Kanpur",Manoj Enclave,Semi-Furnished
+"Prakash
+AGENT
+0",9000,663,1,"9,000 deposit",1 bathrooms,,"Kalyanpur, Kanpur",Vatsala Apartment,Furnished
+"Vinay Properties
+AGENT
+0",40000,2300,4,"40,000 deposit",3 bathrooms,,"Tilak Nagar, Kanpur",,Semi-Furnished
+"Kalra
+AGENT
+0",9999,1100,2,"9,999 deposit",2 bathrooms,,"Kakadev, Kanpur",Jamuna Apartment,Semi-Furnished
+"Amit Kumar Srivastava
+OWNER",8000,600,2,"5,000 deposit",1 bathrooms,,"Yashoda Nagar, Kanpur",,Semi-Furnished
+"Vishoo
+AGENT
+-",14900,1514,3,"14,900 deposit",2 bathrooms,,"Shastri Nagar, Kanpur",Utsav Apartment,Semi-Furnished
+"Guest
+OWNER",9000,900,2,"9,000 deposit",2 bathrooms,,"Kanpur University, Kanpur",,Furnished
+"Consultant
+AGENT
+-",13900,1450,3,"13,900 deposit",2 bathrooms,,"Harsh Nagar, Kanpur",Kajal Apartment,Semi-Furnished
+"Seller
+VERIFIED OWNER",24000,1200,3,No Deposit,3 bathrooms,,"Permat, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,650,2,"15,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",23000,1575,3,"46,000 deposit",3 bathrooms,,"Kalyanpur, Kanpur",Shyam Kanha Shyam Residency,Semi-Furnished
+"Seller
+VERIFIED OWNER",12000,850,3,"12,000 deposit",4 bathrooms,,"Kalyanpur, Kanpur",,Furnished
+"Seller
+VERIFIED OWNER",9000,820,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",9000,1200,2,No Deposit,1 bathrooms,NorthWest facing,"Yashoda Nagar, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12000,900,2,"24,000 deposit",2 bathrooms,,"Jajmau, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",11500,1722,2,"23,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12500,1100,2,No Deposit,2 bathrooms,,"Kalyanpur, Kanpur",Dolphin Anand Gooba Garden,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,1250,3,No Deposit,1 bathrooms,,"Shukla Ganj, Kanpur",,Unfurnished
+"Vishoo
+AGENT
+0",9000,1100,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Vinay Properties
+AGENT
+0",20000,1500,3,"20,000 deposit",3 bathrooms,,"Shastri Nagar, Kanpur",,Semi-Furnished
+"Consultant
+AGENT
+0",13900,1500,3,"13,900 deposit",2 bathrooms,,"Kaushalpuri, Kanpur",Manoj Enclave,Semi-Furnished
+"Prakash
+AGENT
+0",9000,663,1,"9,000 deposit",1 bathrooms,,"Kalyanpur, Kanpur",Vatsala Apartment,Furnished
+"Vinay Properties
+AGENT
+0",40000,2300,4,"40,000 deposit",3 bathrooms,,"Tilak Nagar, Kanpur",,Semi-Furnished
+"Kalra
+AGENT
+0",9999,1100,2,"9,999 deposit",2 bathrooms,,"Kakadev, Kanpur",Jamuna Apartment,Semi-Furnished
+"Amit Kumar Srivastava
+OWNER",8000,600,2,"5,000 deposit",1 bathrooms,,"Yashoda Nagar, Kanpur",,Semi-Furnished
+"Vishoo
+AGENT
+-",14900,1514,3,"14,900 deposit",2 bathrooms,,"Shastri Nagar, Kanpur",Utsav Apartment,Semi-Furnished
+"Guest
+OWNER",9000,900,2,"9,000 deposit",2 bathrooms,,"Kanpur University, Kanpur",,Furnished
+"Consultant
+AGENT
+-",13900,1450,3,"13,900 deposit",2 bathrooms,,"Harsh Nagar, Kanpur",Kajal Apartment,Semi-Furnished
+"Seller
+VERIFIED OWNER",24000,1200,3,No Deposit,3 bathrooms,,"Permat, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,650,2,"15,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",23000,1575,3,"46,000 deposit",3 bathrooms,,"Kalyanpur, Kanpur",Shyam Kanha Shyam Residency,Semi-Furnished
+"Seller
+VERIFIED OWNER",12000,850,3,"12,000 deposit",4 bathrooms,,"Kalyanpur, Kanpur",,Furnished
+"Seller
+VERIFIED OWNER",9000,820,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",9000,1200,2,No Deposit,1 bathrooms,NorthWest facing,"Yashoda Nagar, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12000,900,2,"24,000 deposit",2 bathrooms,,"Jajmau, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",11500,1722,2,"23,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12500,1100,2,No Deposit,2 bathrooms,,"Kalyanpur, Kanpur",Dolphin Anand Gooba Garden,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,1250,3,No Deposit,1 bathrooms,,"Shukla Ganj, Kanpur",,Unfurnished
+"Vishoo
+AGENT
+0",9000,1100,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Vinay Properties
+AGENT
+0",20000,1500,3,"20,000 deposit",3 bathrooms,,"Shastri Nagar, Kanpur",,Semi-Furnished
+"Consultant
+AGENT
+0",13900,1500,3,"13,900 deposit",2 bathrooms,,"Kaushalpuri, Kanpur",Manoj Enclave,Semi-Furnished
+"Prakash
+AGENT
+0",9000,663,1,"9,000 deposit",1 bathrooms,,"Kalyanpur, Kanpur",Vatsala Apartment,Furnished
+"Vinay Properties
+AGENT
+0",40000,2300,4,"40,000 deposit",3 bathrooms,,"Tilak Nagar, Kanpur",,Semi-Furnished
+"Kalra
+AGENT
+0",9999,1100,2,"9,999 deposit",2 bathrooms,,"Kakadev, Kanpur",Jamuna Apartment,Semi-Furnished
+"Amit Kumar Srivastava
+OWNER",8000,600,2,"5,000 deposit",1 bathrooms,,"Yashoda Nagar, Kanpur",,Semi-Furnished
+"Vishoo
+AGENT
+0",14900,1514,3,"14,900 deposit",2 bathrooms,,"Shastri Nagar, Kanpur",Utsav Apartment,Semi-Furnished
+"Guest
+OWNER",9000,900,2,"9,000 deposit",2 bathrooms,,"Kanpur University, Kanpur",,Furnished
+"Consultant
+AGENT
+0",13900,1450,3,"13,900 deposit",2 bathrooms,,"Harsh Nagar, Kanpur",Kajal Apartment,Semi-Furnished
+"Seller
+VERIFIED OWNER",24000,1200,3,No Deposit,3 bathrooms,,"Permat, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,650,2,"15,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",23000,1575,3,"46,000 deposit",3 bathrooms,,"Kalyanpur, Kanpur",Shyam Kanha Shyam Residency,Semi-Furnished
+"Seller
+VERIFIED OWNER",12000,850,3,"12,000 deposit",4 bathrooms,,"Kalyanpur, Kanpur",,Furnished
+"Seller
+VERIFIED OWNER",9000,820,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",9000,1200,2,No Deposit,1 bathrooms,NorthWest facing,"Yashoda Nagar, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12000,900,2,"24,000 deposit",2 bathrooms,,"Jajmau, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",11500,1722,2,"23,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12500,1100,2,No Deposit,2 bathrooms,,"Kalyanpur, Kanpur",Dolphin Anand Gooba Garden,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,1250,3,No Deposit,1 bathrooms,,"Shukla Ganj, Kanpur",,Unfurnished
+"Vishoo
+AGENT
+0",9000,1100,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Vinay Properties
+AGENT
+0",20000,1500,3,"20,000 deposit",3 bathrooms,,"Shastri Nagar, Kanpur",,Semi-Furnished
+"Consultant
+AGENT
+0",13900,1500,3,"13,900 deposit",2 bathrooms,,"Kaushalpuri, Kanpur",Manoj Enclave,Semi-Furnished
+"Prakash
+AGENT
+0",9000,663,1,"9,000 deposit",1 bathrooms,,"Kalyanpur, Kanpur",Vatsala Apartment,Furnished
+"Vinay Properties
+AGENT
+0",40000,2300,4,"40,000 deposit",3 bathrooms,,"Tilak Nagar, Kanpur",,Semi-Furnished
+"Kalra
+AGENT
+0",9999,1100,2,"9,999 deposit",2 bathrooms,,"Kakadev, Kanpur",Jamuna Apartment,Semi-Furnished
+"Amit Kumar Srivastava
+OWNER",8000,600,2,"5,000 deposit",1 bathrooms,,"Yashoda Nagar, Kanpur",,Semi-Furnished
+"Vishoo
+AGENT
+0",14900,1514,3,"14,900 deposit",2 bathrooms,,"Shastri Nagar, Kanpur",Utsav Apartment,Semi-Furnished
+"Guest
+OWNER",9000,900,2,"9,000 deposit",2 bathrooms,,"Kanpur University, Kanpur",,Furnished
+"Consultant
+AGENT
+0",13900,1450,3,"13,900 deposit",2 bathrooms,,"Harsh Nagar, Kanpur",Kajal Apartment,Semi-Furnished
+"Seller
+VERIFIED OWNER",24000,1200,3,No Deposit,3 bathrooms,,"Permat, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,650,2,"15,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",23000,1575,3,"46,000 deposit",3 bathrooms,,"Kalyanpur, Kanpur",Shyam Kanha Shyam Residency,Semi-Furnished
+"Seller
+VERIFIED OWNER",12000,850,3,"12,000 deposit",4 bathrooms,,"Kalyanpur, Kanpur",,Furnished
+"Seller
+VERIFIED OWNER",9000,820,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",9000,1200,2,No Deposit,1 bathrooms,NorthWest facing,"Yashoda Nagar, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12000,900,2,"24,000 deposit",2 bathrooms,,"Jajmau, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",11500,1722,2,"23,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12500,1100,2,No Deposit,2 bathrooms,,"Kalyanpur, Kanpur",Dolphin Anand Gooba Garden,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,1250,3,No Deposit,1 bathrooms,,"Shukla Ganj, Kanpur",,Unfurnished
+"Vishoo
+AGENT
+0",9000,1100,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Vinay Properties
+AGENT
+0",20000,1500,3,"20,000 deposit",3 bathrooms,,"Shastri Nagar, Kanpur",,Semi-Furnished
+"Consultant
+AGENT
+0",13900,1500,3,"13,900 deposit",2 bathrooms,,"Kaushalpuri, Kanpur",Manoj Enclave,Semi-Furnished
+"Prakash
+AGENT
+0",9000,663,1,"9,000 deposit",1 bathrooms,,"Kalyanpur, Kanpur",Vatsala Apartment,Furnished
+"Vinay Properties
+AGENT
+0",40000,2300,4,"40,000 deposit",3 bathrooms,,"Tilak Nagar, Kanpur",,Semi-Furnished
+"Kalra
+AGENT
+0",9999,1100,2,"9,999 deposit",2 bathrooms,,"Kakadev, Kanpur",Jamuna Apartment,Semi-Furnished
+"Amit Kumar Srivastava
+OWNER",8000,600,2,"5,000 deposit",1 bathrooms,,"Yashoda Nagar, Kanpur",,Semi-Furnished
+"Vishoo
+AGENT
+0",14900,1514,3,"14,900 deposit",2 bathrooms,,"Shastri Nagar, Kanpur",Utsav Apartment,Semi-Furnished
+"Guest
+OWNER",9000,900,2,"9,000 deposit",2 bathrooms,,"Kanpur University, Kanpur",,Furnished
+"Consultant
+AGENT
+0",13900,1450,3,"13,900 deposit",2 bathrooms,,"Harsh Nagar, Kanpur",Kajal Apartment,Semi-Furnished
+"Seller
+VERIFIED OWNER",24000,1200,3,No Deposit,3 bathrooms,,"Permat, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,650,2,"15,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",23000,1575,3,"46,000 deposit",3 bathrooms,,"Kalyanpur, Kanpur",Shyam Kanha Shyam Residency,Semi-Furnished
+"Seller
+VERIFIED OWNER",12000,850,3,"12,000 deposit",4 bathrooms,,"Kalyanpur, Kanpur",,Furnished
+"Seller
+VERIFIED OWNER",9000,820,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",9000,1200,2,No Deposit,1 bathrooms,NorthWest facing,"Yashoda Nagar, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12000,900,2,"24,000 deposit",2 bathrooms,,"Jajmau, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",11500,1722,2,"23,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12500,1100,2,No Deposit,2 bathrooms,,"Kalyanpur, Kanpur",Dolphin Anand Gooba Garden,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,1250,3,No Deposit,1 bathrooms,,"Shukla Ganj, Kanpur",,Unfurnished
+"Vishoo
+AGENT
+0",9000,1100,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Vinay Properties
+AGENT
+0",20000,1500,3,"20,000 deposit",3 bathrooms,,"Shastri Nagar, Kanpur",,Semi-Furnished
+"Consultant
+AGENT
+0",13900,1500,3,"13,900 deposit",2 bathrooms,,"Kaushalpuri, Kanpur",Manoj Enclave,Semi-Furnished
+"Prakash
+AGENT
+0",9000,663,1,"9,000 deposit",1 bathrooms,,"Kalyanpur, Kanpur",Vatsala Apartment,Furnished
+"Vinay Properties
+AGENT
+0",40000,2300,4,"40,000 deposit",3 bathrooms,,"Tilak Nagar, Kanpur",,Semi-Furnished
+"Kalra
+AGENT
+0",9999,1100,2,"9,999 deposit",2 bathrooms,,"Kakadev, Kanpur",Jamuna Apartment,Semi-Furnished
+"Amit Kumar Srivastava
+OWNER",8000,600,2,"5,000 deposit",1 bathrooms,,"Yashoda Nagar, Kanpur",,Semi-Furnished
+"Vishoo
+AGENT
+0",14900,1514,3,"14,900 deposit",2 bathrooms,,"Shastri Nagar, Kanpur",Utsav Apartment,Semi-Furnished
+"Guest
+OWNER",9000,900,2,"9,000 deposit",2 bathrooms,,"Kanpur University, Kanpur",,Furnished
+"Consultant
+AGENT
+0",13900,1450,3,"13,900 deposit",2 bathrooms,,"Harsh Nagar, Kanpur",Kajal Apartment,Semi-Furnished
+"Seller
+VERIFIED OWNER",24000,1200,3,No Deposit,3 bathrooms,,"Permat, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,650,2,"15,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",23000,1575,3,"46,000 deposit",3 bathrooms,,"Kalyanpur, Kanpur",Shyam Kanha Shyam Residency,Semi-Furnished
+"Seller
+VERIFIED OWNER",12000,850,3,"12,000 deposit",4 bathrooms,,"Kalyanpur, Kanpur",,Furnished
+"Seller
+VERIFIED OWNER",9000,820,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",9000,1200,2,No Deposit,1 bathrooms,NorthWest facing,"Yashoda Nagar, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12000,900,2,"24,000 deposit",2 bathrooms,,"Jajmau, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",11500,1722,2,"23,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12500,1100,2,No Deposit,2 bathrooms,,"Kalyanpur, Kanpur",Dolphin Anand Gooba Garden,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,1250,3,No Deposit,1 bathrooms,,"Shukla Ganj, Kanpur",,Unfurnished
+"Vishoo
+AGENT
+0",9000,1100,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Vinay Properties
+AGENT
+0",20000,1500,3,"20,000 deposit",3 bathrooms,,"Shastri Nagar, Kanpur",,Semi-Furnished
+"Consultant
+AGENT
+0",13900,1500,3,"13,900 deposit",2 bathrooms,,"Kaushalpuri, Kanpur",Manoj Enclave,Semi-Furnished
+"Prakash
+AGENT
+0",9000,663,1,"9,000 deposit",1 bathrooms,,"Kalyanpur, Kanpur",Vatsala Apartment,Furnished
+"Vinay Properties
+AGENT
+0",40000,2300,4,"40,000 deposit",3 bathrooms,,"Tilak Nagar, Kanpur",,Semi-Furnished
+"Kalra
+AGENT
+0",9999,1100,2,"9,999 deposit",2 bathrooms,,"Kakadev, Kanpur",Jamuna Apartment,Semi-Furnished
+"Amit Kumar Srivastava
+OWNER",8000,600,2,"5,000 deposit",1 bathrooms,,"Yashoda Nagar, Kanpur",,Semi-Furnished
+"Vishoo
+AGENT
+0",14900,1514,3,"14,900 deposit",2 bathrooms,,"Shastri Nagar, Kanpur",Utsav Apartment,Semi-Furnished
+"Guest
+OWNER",9000,900,2,"9,000 deposit",2 bathrooms,,"Kanpur University, Kanpur",,Furnished
+"Consultant
+AGENT
+0",13900,1450,3,"13,900 deposit",2 bathrooms,,"Harsh Nagar, Kanpur",Kajal Apartment,Semi-Furnished
+"Seller
+VERIFIED OWNER",24000,1200,3,No Deposit,3 bathrooms,,"Permat, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,650,2,"15,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",23000,1575,3,"46,000 deposit",3 bathrooms,,"Kalyanpur, Kanpur",Shyam Kanha Shyam Residency,Semi-Furnished
+"Seller
+VERIFIED OWNER",12000,850,3,"12,000 deposit",4 bathrooms,,"Kalyanpur, Kanpur",,Furnished
+"Seller
+VERIFIED OWNER",9000,820,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Seller
+VERIFIED OWNER",9000,1200,2,No Deposit,1 bathrooms,NorthWest facing,"Yashoda Nagar, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12000,900,2,"24,000 deposit",2 bathrooms,,"Jajmau, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",11500,1722,2,"23,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Unfurnished
+"Seller
+VERIFIED OWNER",12500,1100,2,No Deposit,2 bathrooms,,"Kalyanpur, Kanpur",Dolphin Anand Gooba Garden,Semi-Furnished
+"Seller
+VERIFIED OWNER",7500,1250,3,No Deposit,1 bathrooms,,"Shukla Ganj, Kanpur",,Unfurnished
+"Vishoo
+AGENT
+0",9000,1100,2,"9,000 deposit",2 bathrooms,,"Kalyanpur, Kanpur",,Semi-Furnished
+"Vinay Properties
+AGENT
+0",20000,1500,3,"20,000 deposit",3 bathrooms,,"Shastri Nagar, Kanpur",,Semi-Furnished
+"Consultant
+AGENT
+0",13900,1500,3,"13,900 deposit",2 bathrooms,,"Kaushalpuri, Kanpur",Manoj Enclave,Semi-Furnished
+"Prakash
+AGENT
+0",9000,663,1,"9,000 deposit",1 bathrooms,,"Kalyanpur, Kanpur",Vatsala Apartment,Furnished
+"Vinay Properties
+AGENT
+0",40000,2300,4,"40,000 deposit",3 bathrooms,,"Tilak Nagar, Kanpur",,Semi-Furnished
+"Kalra
+AGENT
+0",9999,1100,2,"9,999 deposit",2 bathrooms,,"Kakadev, Kanpur",Jamuna Apartment,Semi-Furnished
+"Amit Kumar Srivastava
+OWNER",8000,600,2,"5,000 deposit",1 bathrooms,,"Yashoda Nagar, Kanpur",,Semi-Furnished
+"Vishoo
+AGENT
+0",14900,1514,3,"14,900 deposit",2 bathrooms,,"Shastri Nagar, Kanpur",Utsav Apartment,Semi-Furnished
+"Guest
+OWNER",9000,900,2,"9,000 deposit",2 bathrooms,,"Kanpur University, Kanpur",,Furnished
+"Consultant
+AGENT
+0",13900,1450,3,"13,900 deposit",2 bathrooms,,"Harsh Nagar, Kanpur",Kajal Apartment,Semi-Furnished

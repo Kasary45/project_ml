@@ -1,0 +1,901 @@
+broker_consultancy,Rent,Area,appartment_type,Deposit,Bathrooms,Facing,Address,Apartment Name,Status
+"Seller
+VERIFIED OWNER",3800,150,1,"3,800 deposit",1 bathrooms,,"Kolar Road, Bhopal",,Furnished
+"Seller
+VERIFIED OWNER",15000,950,2,No Deposit,2 bathrooms,,"Kolar Road, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",11000,1000,3,"11,000 deposit",3 bathrooms,,"Avinash Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",35000,1500,3,No Deposit,2 bathrooms,,"Shivaji Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",20000,850,2,"40,000 deposit",2 bathrooms,,"Bagmugalia, Bhopal",Centurion Sky,Furnished
+"Seller
+VERIFIED OWNER",7000,600,2,"14,000 deposit",2 bathrooms,,"Awadhpuri, Bhopal",,Unfurnished
+"Seller
+VERIFIED OWNER",8500,700,1,No Deposit,1 bathrooms,,"Eco Green City, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",17000,850,3,"17,000 deposit",3 bathrooms,,"Jatkhedi, Bhopal",Asnani Aashima Anupama City Phase 1,Unfurnished
+"Seller
+VERIFIED OWNER",15000,950,3,"30,000 deposit",2 bathrooms,,"Misrod, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",8000,1000,2,"8,000 deposit",2 bathrooms,,"Kolar Road, Bhopal",,Unfurnished
+"MakaanMalikkhcom
+AGENT
+0",50000,3200,4,No Deposit,4 bathrooms,West facing,"Chuna Bhatti, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",14000,1400,4,No Deposit,4 bathrooms,West facing,"Kolar Road, Bhopal",,Semi-Furnished
+"MISTY Property
+AGENT
+0",22000,2000,3,No Deposit,2 bathrooms,,"Bagmugalia, Bhopal",,Furnished
+"Max Realty
+AGENT
+0",55000,2074,3,No Deposit,4 bathrooms,,"Arera Colony, Bhopal",MP Kilandev Towers,Furnished
+"Freelife System Pvt Ltd
+AGENT
+0",12000,650,2,"12,000 deposit",2 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"AP Reality
+AGENT
+0",27000,1800,3,No Deposit,3 bathrooms,,"Gulmohar Colony, Bhopal",,Semi-Furnished
+"Sai Properties
+AGENT
+0",38000,1613,4,"76,000 deposit",4 bathrooms,,"Hoshangabad Road, Bhopal",Globus Coral Woods,Furnished
+"Circle Property Rental Service
+AGENT
+0",18500,2250,3,"18,500 deposit",3 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"Sandeep Sangwan
+AGENT
+0",12000,950,3,No Deposit,2 bathrooms,East facing,"Ayodhya Nagar, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",22000,1750,3,No Deposit,3 bathrooms,West facing,"Kolar Road, Bhopal",Sage Sagar Green Hills,Furnished
+"Seller
+VERIFIED OWNER",3800,150,1,"3,800 deposit",1 bathrooms,,"Kolar Road, Bhopal",,Furnished
+"Seller
+VERIFIED OWNER",15000,950,2,No Deposit,2 bathrooms,,"Kolar Road, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",11000,1000,3,"11,000 deposit",3 bathrooms,,"Avinash Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",35000,1500,3,No Deposit,2 bathrooms,,"Shivaji Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",20000,850,2,"40,000 deposit",2 bathrooms,,"Bagmugalia, Bhopal",Centurion Sky,Furnished
+"Seller
+VERIFIED OWNER",7000,600,2,"14,000 deposit",2 bathrooms,,"Awadhpuri, Bhopal",,Unfurnished
+"Seller
+VERIFIED OWNER",8500,700,1,No Deposit,1 bathrooms,,"Eco Green City, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",17000,850,3,"17,000 deposit",3 bathrooms,,"Jatkhedi, Bhopal",Asnani Aashima Anupama City Phase 1,Unfurnished
+"Seller
+VERIFIED OWNER",15000,950,3,"30,000 deposit",2 bathrooms,,"Misrod, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",8000,1000,2,"8,000 deposit",2 bathrooms,,"Kolar Road, Bhopal",,Unfurnished
+"MakaanMalikkhcom
+AGENT
+0",50000,3200,4,No Deposit,4 bathrooms,West facing,"Chuna Bhatti, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",14000,1400,4,No Deposit,4 bathrooms,West facing,"Kolar Road, Bhopal",,Semi-Furnished
+"MISTY Property
+AGENT
+0",22000,2000,3,No Deposit,2 bathrooms,,"Bagmugalia, Bhopal",,Furnished
+"Max Realty
+AGENT
+0",55000,2074,3,No Deposit,4 bathrooms,,"Arera Colony, Bhopal",MP Kilandev Towers,Furnished
+"Freelife System Pvt Ltd
+AGENT
+0",12000,650,2,"12,000 deposit",2 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"AP Reality
+AGENT
+0",27000,1800,3,No Deposit,3 bathrooms,,"Gulmohar Colony, Bhopal",,Semi-Furnished
+"Sai Properties
+AGENT
+0",38000,1613,4,"76,000 deposit",4 bathrooms,,"Hoshangabad Road, Bhopal",Globus Coral Woods,Furnished
+"Circle Property Rental Service
+AGENT
+0",18500,2250,3,"18,500 deposit",3 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"Sandeep Sangwan
+AGENT
+0",12000,950,3,No Deposit,2 bathrooms,East facing,"Ayodhya Nagar, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",22000,1750,3,No Deposit,3 bathrooms,West facing,"Kolar Road, Bhopal",Sage Sagar Green Hills,Furnished
+"Seller
+VERIFIED OWNER",3800,150,1,"3,800 deposit",1 bathrooms,,"Kolar Road, Bhopal",,Furnished
+"Seller
+VERIFIED OWNER",15000,950,2,No Deposit,2 bathrooms,,"Kolar Road, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",11000,1000,3,"11,000 deposit",3 bathrooms,,"Avinash Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",35000,1500,3,No Deposit,2 bathrooms,,"Shivaji Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",20000,850,2,"40,000 deposit",2 bathrooms,,"Bagmugalia, Bhopal",Centurion Sky,Furnished
+"Seller
+VERIFIED OWNER",7000,600,2,"14,000 deposit",2 bathrooms,,"Awadhpuri, Bhopal",,Unfurnished
+"Seller
+VERIFIED OWNER",8500,700,1,No Deposit,1 bathrooms,,"Eco Green City, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",17000,850,3,"17,000 deposit",3 bathrooms,,"Jatkhedi, Bhopal",Asnani Aashima Anupama City Phase 1,Unfurnished
+"Seller
+VERIFIED OWNER",15000,950,3,"30,000 deposit",2 bathrooms,,"Misrod, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",8000,1000,2,"8,000 deposit",2 bathrooms,,"Kolar Road, Bhopal",,Unfurnished
+"MakaanMalikkhcom
+AGENT
+0",50000,3200,4,No Deposit,4 bathrooms,West facing,"Chuna Bhatti, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",14000,1400,4,No Deposit,4 bathrooms,West facing,"Kolar Road, Bhopal",,Semi-Furnished
+"MISTY Property
+AGENT
+0",22000,2000,3,No Deposit,2 bathrooms,,"Bagmugalia, Bhopal",,Furnished
+"Max Realty
+AGENT
+0",55000,2074,3,No Deposit,4 bathrooms,,"Arera Colony, Bhopal",MP Kilandev Towers,Furnished
+"Freelife System Pvt Ltd
+AGENT
+0",12000,650,2,"12,000 deposit",2 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"AP Reality
+AGENT
+0",27000,1800,3,No Deposit,3 bathrooms,,"Gulmohar Colony, Bhopal",,Semi-Furnished
+"Sai Properties
+AGENT
+0",38000,1613,4,"76,000 deposit",4 bathrooms,,"Hoshangabad Road, Bhopal",Globus Coral Woods,Furnished
+"Circle Property Rental Service
+AGENT
+0",18500,2250,3,"18,500 deposit",3 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"Sandeep Sangwan
+AGENT
+0",12000,950,3,No Deposit,2 bathrooms,East facing,"Ayodhya Nagar, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",22000,1750,3,No Deposit,3 bathrooms,West facing,"Kolar Road, Bhopal",Sage Sagar Green Hills,Furnished
+"Seller
+VERIFIED OWNER",3800,150,1,"3,800 deposit",1 bathrooms,,"Kolar Road, Bhopal",,Furnished
+"Seller
+VERIFIED OWNER",15000,950,2,No Deposit,2 bathrooms,,"Kolar Road, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",11000,1000,3,"11,000 deposit",3 bathrooms,,"Avinash Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",35000,1500,3,No Deposit,2 bathrooms,,"Shivaji Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",20000,850,2,"40,000 deposit",2 bathrooms,,"Bagmugalia, Bhopal",Centurion Sky,Furnished
+"Seller
+VERIFIED OWNER",7000,600,2,"14,000 deposit",2 bathrooms,,"Awadhpuri, Bhopal",,Unfurnished
+"Seller
+VERIFIED OWNER",8500,700,1,No Deposit,1 bathrooms,,"Eco Green City, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",17000,850,3,"17,000 deposit",3 bathrooms,,"Jatkhedi, Bhopal",Asnani Aashima Anupama City Phase 1,Unfurnished
+"Seller
+VERIFIED OWNER",15000,950,3,"30,000 deposit",2 bathrooms,,"Misrod, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",8000,1000,2,"8,000 deposit",2 bathrooms,,"Kolar Road, Bhopal",,Unfurnished
+"MakaanMalikkhcom
+AGENT
+0",50000,3200,4,No Deposit,4 bathrooms,West facing,"Chuna Bhatti, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",14000,1400,4,No Deposit,4 bathrooms,West facing,"Kolar Road, Bhopal",,Semi-Furnished
+"MISTY Property
+AGENT
+0",22000,2000,3,No Deposit,2 bathrooms,,"Bagmugalia, Bhopal",,Furnished
+"Max Realty
+AGENT
+0",55000,2074,3,No Deposit,4 bathrooms,,"Arera Colony, Bhopal",MP Kilandev Towers,Furnished
+"Freelife System Pvt Ltd
+AGENT
+0",12000,650,2,"12,000 deposit",2 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"AP Reality
+AGENT
+0",27000,1800,3,No Deposit,3 bathrooms,,"Gulmohar Colony, Bhopal",,Semi-Furnished
+"Sai Properties
+AGENT
+0",38000,1613,4,"76,000 deposit",4 bathrooms,,"Hoshangabad Road, Bhopal",Globus Coral Woods,Furnished
+"Circle Property Rental Service
+AGENT
+0",18500,2250,3,"18,500 deposit",3 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"Sandeep Sangwan
+AGENT
+0",12000,950,3,No Deposit,2 bathrooms,East facing,"Ayodhya Nagar, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",22000,1750,3,No Deposit,3 bathrooms,West facing,"Kolar Road, Bhopal",Sage Sagar Green Hills,Furnished
+"Seller
+VERIFIED OWNER",3800,150,1,"3,800 deposit",1 bathrooms,,"Kolar Road, Bhopal",,Furnished
+"Seller
+VERIFIED OWNER",15000,950,2,No Deposit,2 bathrooms,,"Kolar Road, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",11000,1000,3,"11,000 deposit",3 bathrooms,,"Avinash Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",35000,1500,3,No Deposit,2 bathrooms,,"Shivaji Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",20000,850,2,"40,000 deposit",2 bathrooms,,"Bagmugalia, Bhopal",Centurion Sky,Furnished
+"Seller
+VERIFIED OWNER",7000,600,2,"14,000 deposit",2 bathrooms,,"Awadhpuri, Bhopal",,Unfurnished
+"Seller
+VERIFIED OWNER",8500,700,1,No Deposit,1 bathrooms,,"Eco Green City, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",17000,850,3,"17,000 deposit",3 bathrooms,,"Jatkhedi, Bhopal",Asnani Aashima Anupama City Phase 1,Unfurnished
+"Seller
+VERIFIED OWNER",15000,950,3,"30,000 deposit",2 bathrooms,,"Misrod, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",8000,1000,2,"8,000 deposit",2 bathrooms,,"Kolar Road, Bhopal",,Unfurnished
+"MakaanMalikkhcom
+AGENT
+0",50000,3200,4,No Deposit,4 bathrooms,West facing,"Chuna Bhatti, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",14000,1400,4,No Deposit,4 bathrooms,West facing,"Kolar Road, Bhopal",,Semi-Furnished
+"MISTY Property
+AGENT
+0",22000,2000,3,No Deposit,2 bathrooms,,"Bagmugalia, Bhopal",,Furnished
+"Max Realty
+AGENT
+0",55000,2074,3,No Deposit,4 bathrooms,,"Arera Colony, Bhopal",MP Kilandev Towers,Furnished
+"Freelife System Pvt Ltd
+AGENT
+0",12000,650,2,"12,000 deposit",2 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"AP Reality
+AGENT
+0",27000,1800,3,No Deposit,3 bathrooms,,"Gulmohar Colony, Bhopal",,Semi-Furnished
+"Sai Properties
+AGENT
+0",38000,1613,4,"76,000 deposit",4 bathrooms,,"Hoshangabad Road, Bhopal",Globus Coral Woods,Furnished
+"Circle Property Rental Service
+AGENT
+0",18500,2250,3,"18,500 deposit",3 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"Sandeep Sangwan
+AGENT
+0",12000,950,3,No Deposit,2 bathrooms,East facing,"Ayodhya Nagar, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",22000,1750,3,No Deposit,3 bathrooms,West facing,"Kolar Road, Bhopal",Sage Sagar Green Hills,Furnished
+"Seller
+VERIFIED OWNER",3800,150,1,"3,800 deposit",1 bathrooms,,"Kolar Road, Bhopal",,Furnished
+"Seller
+VERIFIED OWNER",15000,950,2,No Deposit,2 bathrooms,,"Kolar Road, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",11000,1000,3,"11,000 deposit",3 bathrooms,,"Avinash Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",35000,1500,3,No Deposit,2 bathrooms,,"Shivaji Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",20000,850,2,"40,000 deposit",2 bathrooms,,"Bagmugalia, Bhopal",Centurion Sky,Furnished
+"Seller
+VERIFIED OWNER",7000,600,2,"14,000 deposit",2 bathrooms,,"Awadhpuri, Bhopal",,Unfurnished
+"Seller
+VERIFIED OWNER",8500,700,1,No Deposit,1 bathrooms,,"Eco Green City, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",17000,850,3,"17,000 deposit",3 bathrooms,,"Jatkhedi, Bhopal",Asnani Aashima Anupama City Phase 1,Unfurnished
+"Seller
+VERIFIED OWNER",15000,950,3,"30,000 deposit",2 bathrooms,,"Misrod, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",8000,1000,2,"8,000 deposit",2 bathrooms,,"Kolar Road, Bhopal",,Unfurnished
+"MakaanMalikkhcom
+AGENT
+0",50000,3200,4,No Deposit,4 bathrooms,West facing,"Chuna Bhatti, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",14000,1400,4,No Deposit,4 bathrooms,West facing,"Kolar Road, Bhopal",,Semi-Furnished
+"MISTY Property
+AGENT
+0",22000,2000,3,No Deposit,2 bathrooms,,"Bagmugalia, Bhopal",,Furnished
+"Max Realty
+AGENT
+0",55000,2074,3,No Deposit,4 bathrooms,,"Arera Colony, Bhopal",MP Kilandev Towers,Furnished
+"Freelife System Pvt Ltd
+AGENT
+0",12000,650,2,"12,000 deposit",2 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"AP Reality
+AGENT
+0",27000,1800,3,No Deposit,3 bathrooms,,"Gulmohar Colony, Bhopal",,Semi-Furnished
+"Sai Properties
+AGENT
+0",38000,1613,4,"76,000 deposit",4 bathrooms,,"Hoshangabad Road, Bhopal",Globus Coral Woods,Furnished
+"Circle Property Rental Service
+AGENT
+0",18500,2250,3,"18,500 deposit",3 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"Sandeep Sangwan
+AGENT
+0",12000,950,3,No Deposit,2 bathrooms,East facing,"Ayodhya Nagar, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",22000,1750,3,No Deposit,3 bathrooms,West facing,"Kolar Road, Bhopal",Sage Sagar Green Hills,Furnished
+"Seller
+VERIFIED OWNER",3800,150,1,"3,800 deposit",1 bathrooms,,"Kolar Road, Bhopal",,Furnished
+"Seller
+VERIFIED OWNER",15000,950,2,No Deposit,2 bathrooms,,"Kolar Road, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",11000,1000,3,"11,000 deposit",3 bathrooms,,"Avinash Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",35000,1500,3,No Deposit,2 bathrooms,,"Shivaji Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",20000,850,2,"40,000 deposit",2 bathrooms,,"Bagmugalia, Bhopal",Centurion Sky,Furnished
+"Seller
+VERIFIED OWNER",7000,600,2,"14,000 deposit",2 bathrooms,,"Awadhpuri, Bhopal",,Unfurnished
+"Seller
+VERIFIED OWNER",8500,700,1,No Deposit,1 bathrooms,,"Eco Green City, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",17000,850,3,"17,000 deposit",3 bathrooms,,"Jatkhedi, Bhopal",Asnani Aashima Anupama City Phase 1,Unfurnished
+"Seller
+VERIFIED OWNER",15000,950,3,"30,000 deposit",2 bathrooms,,"Misrod, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",8000,1000,2,"8,000 deposit",2 bathrooms,,"Kolar Road, Bhopal",,Unfurnished
+"MakaanMalikkhcom
+AGENT
+0",50000,3200,4,No Deposit,4 bathrooms,West facing,"Chuna Bhatti, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",14000,1400,4,No Deposit,4 bathrooms,West facing,"Kolar Road, Bhopal",,Semi-Furnished
+"MISTY Property
+AGENT
+0",22000,2000,3,No Deposit,2 bathrooms,,"Bagmugalia, Bhopal",,Furnished
+"Max Realty
+AGENT
+0",55000,2074,3,No Deposit,4 bathrooms,,"Arera Colony, Bhopal",MP Kilandev Towers,Furnished
+"Freelife System Pvt Ltd
+AGENT
+0",12000,650,2,"12,000 deposit",2 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"AP Reality
+AGENT
+0",27000,1800,3,No Deposit,3 bathrooms,,"Gulmohar Colony, Bhopal",,Semi-Furnished
+"Sai Properties
+AGENT
+0",38000,1613,4,"76,000 deposit",4 bathrooms,,"Hoshangabad Road, Bhopal",Globus Coral Woods,Furnished
+"Circle Property Rental Service
+AGENT
+0",18500,2250,3,"18,500 deposit",3 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"Sandeep Sangwan
+AGENT
+0",12000,950,3,No Deposit,2 bathrooms,East facing,"Ayodhya Nagar, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",22000,1750,3,No Deposit,3 bathrooms,West facing,"Kolar Road, Bhopal",Sage Sagar Green Hills,Furnished
+"Seller
+VERIFIED OWNER",3800,150,1,"3,800 deposit",1 bathrooms,,"Kolar Road, Bhopal",,Furnished
+"Seller
+VERIFIED OWNER",15000,950,2,No Deposit,2 bathrooms,,"Kolar Road, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",11000,1000,3,"11,000 deposit",3 bathrooms,,"Avinash Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",35000,1500,3,No Deposit,2 bathrooms,,"Shivaji Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",20000,850,2,"40,000 deposit",2 bathrooms,,"Bagmugalia, Bhopal",Centurion Sky,Furnished
+"Seller
+VERIFIED OWNER",7000,600,2,"14,000 deposit",2 bathrooms,,"Awadhpuri, Bhopal",,Unfurnished
+"Seller
+VERIFIED OWNER",8500,700,1,No Deposit,1 bathrooms,,"Eco Green City, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",17000,850,3,"17,000 deposit",3 bathrooms,,"Jatkhedi, Bhopal",Asnani Aashima Anupama City Phase 1,Unfurnished
+"Seller
+VERIFIED OWNER",15000,950,3,"30,000 deposit",2 bathrooms,,"Misrod, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",8000,1000,2,"8,000 deposit",2 bathrooms,,"Kolar Road, Bhopal",,Unfurnished
+"MakaanMalikkhcom
+AGENT
+0",50000,3200,4,No Deposit,4 bathrooms,West facing,"Chuna Bhatti, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",14000,1400,4,No Deposit,4 bathrooms,West facing,"Kolar Road, Bhopal",,Semi-Furnished
+"MISTY Property
+AGENT
+0",22000,2000,3,No Deposit,2 bathrooms,,"Bagmugalia, Bhopal",,Furnished
+"Max Realty
+AGENT
+0",55000,2074,3,No Deposit,4 bathrooms,,"Arera Colony, Bhopal",MP Kilandev Towers,Furnished
+"Freelife System Pvt Ltd
+AGENT
+0",12000,650,2,"12,000 deposit",2 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"AP Reality
+AGENT
+0",27000,1800,3,No Deposit,3 bathrooms,,"Gulmohar Colony, Bhopal",,Semi-Furnished
+"Sai Properties
+AGENT
+0",38000,1613,4,"76,000 deposit",4 bathrooms,,"Hoshangabad Road, Bhopal",Globus Coral Woods,Furnished
+"Circle Property Rental Service
+AGENT
+0",18500,2250,3,"18,500 deposit",3 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"Sandeep Sangwan
+AGENT
+0",12000,950,3,No Deposit,2 bathrooms,East facing,"Ayodhya Nagar, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",22000,1750,3,No Deposit,3 bathrooms,West facing,"Kolar Road, Bhopal",Sage Sagar Green Hills,Furnished
+"Seller
+VERIFIED OWNER",3800,150,1,"3,800 deposit",1 bathrooms,,"Kolar Road, Bhopal",,Furnished
+"Seller
+VERIFIED OWNER",15000,950,2,No Deposit,2 bathrooms,,"Kolar Road, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",11000,1000,3,"11,000 deposit",3 bathrooms,,"Avinash Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",35000,1500,3,No Deposit,2 bathrooms,,"Shivaji Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",20000,850,2,"40,000 deposit",2 bathrooms,,"Bagmugalia, Bhopal",Centurion Sky,Furnished
+"Seller
+VERIFIED OWNER",7000,600,2,"14,000 deposit",2 bathrooms,,"Awadhpuri, Bhopal",,Unfurnished
+"Seller
+VERIFIED OWNER",8500,700,1,No Deposit,1 bathrooms,,"Eco Green City, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",17000,850,3,"17,000 deposit",3 bathrooms,,"Jatkhedi, Bhopal",Asnani Aashima Anupama City Phase 1,Unfurnished
+"Seller
+VERIFIED OWNER",15000,950,3,"30,000 deposit",2 bathrooms,,"Misrod, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",8000,1000,2,"8,000 deposit",2 bathrooms,,"Kolar Road, Bhopal",,Unfurnished
+"MakaanMalikkhcom
+AGENT
+0",50000,3200,4,No Deposit,4 bathrooms,West facing,"Chuna Bhatti, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",14000,1400,4,No Deposit,4 bathrooms,West facing,"Kolar Road, Bhopal",,Semi-Furnished
+"MISTY Property
+AGENT
+0",22000,2000,3,No Deposit,2 bathrooms,,"Bagmugalia, Bhopal",,Furnished
+"Max Realty
+AGENT
+0",55000,2074,3,No Deposit,4 bathrooms,,"Arera Colony, Bhopal",MP Kilandev Towers,Furnished
+"Freelife System Pvt Ltd
+AGENT
+0",12000,650,2,"12,000 deposit",2 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"AP Reality
+AGENT
+0",27000,1800,3,No Deposit,3 bathrooms,,"Gulmohar Colony, Bhopal",,Semi-Furnished
+"Sai Properties
+AGENT
+0",38000,1613,4,"76,000 deposit",4 bathrooms,,"Hoshangabad Road, Bhopal",Globus Coral Woods,Furnished
+"Circle Property Rental Service
+AGENT
+0",18500,2250,3,"18,500 deposit",3 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"Sandeep Sangwan
+AGENT
+0",12000,950,3,No Deposit,2 bathrooms,East facing,"Ayodhya Nagar, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",22000,1750,3,No Deposit,3 bathrooms,West facing,"Kolar Road, Bhopal",Sage Sagar Green Hills,Furnished
+"Seller
+VERIFIED OWNER",3800,150,1,"3,800 deposit",1 bathrooms,,"Kolar Road, Bhopal",,Furnished
+"Seller
+VERIFIED OWNER",15000,950,2,No Deposit,2 bathrooms,,"Kolar Road, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",11000,1000,3,"11,000 deposit",3 bathrooms,,"Avinash Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",35000,1500,3,No Deposit,2 bathrooms,,"Shivaji Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",20000,850,2,"40,000 deposit",2 bathrooms,,"Bagmugalia, Bhopal",Centurion Sky,Furnished
+"Seller
+VERIFIED OWNER",7000,600,2,"14,000 deposit",2 bathrooms,,"Awadhpuri, Bhopal",,Unfurnished
+"Seller
+VERIFIED OWNER",8500,700,1,No Deposit,1 bathrooms,,"Eco Green City, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",17000,850,3,"17,000 deposit",3 bathrooms,,"Jatkhedi, Bhopal",Asnani Aashima Anupama City Phase 1,Unfurnished
+"Seller
+VERIFIED OWNER",15000,950,3,"30,000 deposit",2 bathrooms,,"Misrod, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",8000,1000,2,"8,000 deposit",2 bathrooms,,"Kolar Road, Bhopal",,Unfurnished
+"MakaanMalikkhcom
+AGENT
+0",50000,3200,4,No Deposit,4 bathrooms,West facing,"Chuna Bhatti, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",14000,1400,4,No Deposit,4 bathrooms,West facing,"Kolar Road, Bhopal",,Semi-Furnished
+"MISTY Property
+AGENT
+0",22000,2000,3,No Deposit,2 bathrooms,,"Bagmugalia, Bhopal",,Furnished
+"Max Realty
+AGENT
+0",55000,2074,3,No Deposit,4 bathrooms,,"Arera Colony, Bhopal",MP Kilandev Towers,Furnished
+"Freelife System Pvt Ltd
+AGENT
+0",12000,650,2,"12,000 deposit",2 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"AP Reality
+AGENT
+0",27000,1800,3,No Deposit,3 bathrooms,,"Gulmohar Colony, Bhopal",,Semi-Furnished
+"Sai Properties
+AGENT
+0",38000,1613,4,"76,000 deposit",4 bathrooms,,"Hoshangabad Road, Bhopal",Globus Coral Woods,Furnished
+"Circle Property Rental Service
+AGENT
+0",18500,2250,3,"18,500 deposit",3 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"Sandeep Sangwan
+AGENT
+0",12000,950,3,No Deposit,2 bathrooms,East facing,"Ayodhya Nagar, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",22000,1750,3,No Deposit,3 bathrooms,West facing,"Kolar Road, Bhopal",Sage Sagar Green Hills,Furnished
+"Seller
+VERIFIED OWNER",3800,150,1,"3,800 deposit",1 bathrooms,,"Kolar Road, Bhopal",,Furnished
+"Seller
+VERIFIED OWNER",15000,950,2,No Deposit,2 bathrooms,,"Kolar Road, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",11000,1000,3,"11,000 deposit",3 bathrooms,,"Avinash Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",35000,1500,3,No Deposit,2 bathrooms,,"Shivaji Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",20000,850,2,"40,000 deposit",2 bathrooms,,"Bagmugalia, Bhopal",Centurion Sky,Furnished
+"Seller
+VERIFIED OWNER",7000,600,2,"14,000 deposit",2 bathrooms,,"Awadhpuri, Bhopal",,Unfurnished
+"Seller
+VERIFIED OWNER",8500,700,1,No Deposit,1 bathrooms,,"Eco Green City, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",17000,850,3,"17,000 deposit",3 bathrooms,,"Jatkhedi, Bhopal",Asnani Aashima Anupama City Phase 1,Unfurnished
+"Seller
+VERIFIED OWNER",15000,950,3,"30,000 deposit",2 bathrooms,,"Misrod, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",8000,1000,2,"8,000 deposit",2 bathrooms,,"Kolar Road, Bhopal",,Unfurnished
+"MakaanMalikkhcom
+AGENT
+0",50000,3200,4,No Deposit,4 bathrooms,West facing,"Chuna Bhatti, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",14000,1400,4,No Deposit,4 bathrooms,West facing,"Kolar Road, Bhopal",,Semi-Furnished
+"MISTY Property
+AGENT
+0",22000,2000,3,No Deposit,2 bathrooms,,"Bagmugalia, Bhopal",,Furnished
+"Max Realty
+AGENT
+0",55000,2074,3,No Deposit,4 bathrooms,,"Arera Colony, Bhopal",MP Kilandev Towers,Furnished
+"Freelife System Pvt Ltd
+AGENT
+0",12000,650,2,"12,000 deposit",2 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"AP Reality
+AGENT
+0",27000,1800,3,No Deposit,3 bathrooms,,"Gulmohar Colony, Bhopal",,Semi-Furnished
+"Sai Properties
+AGENT
+0",38000,1613,4,"76,000 deposit",4 bathrooms,,"Hoshangabad Road, Bhopal",Globus Coral Woods,Furnished
+"Circle Property Rental Service
+AGENT
+0",18500,2250,3,"18,500 deposit",3 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"Sandeep Sangwan
+AGENT
+0",12000,950,3,No Deposit,2 bathrooms,East facing,"Ayodhya Nagar, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",22000,1750,3,No Deposit,3 bathrooms,West facing,"Kolar Road, Bhopal",Sage Sagar Green Hills,Furnished
+"Seller
+VERIFIED OWNER",3800,150,1,"3,800 deposit",1 bathrooms,,"Kolar Road, Bhopal",,Furnished
+"Seller
+VERIFIED OWNER",15000,950,2,No Deposit,2 bathrooms,,"Kolar Road, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",11000,1000,3,"11,000 deposit",3 bathrooms,,"Avinash Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",35000,1500,3,No Deposit,2 bathrooms,,"Shivaji Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",20000,850,2,"40,000 deposit",2 bathrooms,,"Bagmugalia, Bhopal",Centurion Sky,Furnished
+"Seller
+VERIFIED OWNER",7000,600,2,"14,000 deposit",2 bathrooms,,"Awadhpuri, Bhopal",,Unfurnished
+"Seller
+VERIFIED OWNER",8500,700,1,No Deposit,1 bathrooms,,"Eco Green City, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",17000,850,3,"17,000 deposit",3 bathrooms,,"Jatkhedi, Bhopal",Asnani Aashima Anupama City Phase 1,Unfurnished
+"Seller
+VERIFIED OWNER",15000,950,3,"30,000 deposit",2 bathrooms,,"Misrod, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",8000,1000,2,"8,000 deposit",2 bathrooms,,"Kolar Road, Bhopal",,Unfurnished
+"MakaanMalikkhcom
+AGENT
+0",50000,3200,4,No Deposit,4 bathrooms,West facing,"Chuna Bhatti, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",14000,1400,4,No Deposit,4 bathrooms,West facing,"Kolar Road, Bhopal",,Semi-Furnished
+"MISTY Property
+AGENT
+0",22000,2000,3,No Deposit,2 bathrooms,,"Bagmugalia, Bhopal",,Furnished
+"Max Realty
+AGENT
+0",55000,2074,3,No Deposit,4 bathrooms,,"Arera Colony, Bhopal",MP Kilandev Towers,Furnished
+"Freelife System Pvt Ltd
+AGENT
+0",12000,650,2,"12,000 deposit",2 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"AP Reality
+AGENT
+0",27000,1800,3,No Deposit,3 bathrooms,,"Gulmohar Colony, Bhopal",,Semi-Furnished
+"Sai Properties
+AGENT
+0",38000,1613,4,"76,000 deposit",4 bathrooms,,"Hoshangabad Road, Bhopal",Globus Coral Woods,Furnished
+"Circle Property Rental Service
+AGENT
+0",18500,2250,3,"18,500 deposit",3 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"Sandeep Sangwan
+AGENT
+0",12000,950,3,No Deposit,2 bathrooms,East facing,"Ayodhya Nagar, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",22000,1750,3,No Deposit,3 bathrooms,West facing,"Kolar Road, Bhopal",Sage Sagar Green Hills,Furnished
+"Seller
+VERIFIED OWNER",3800,150,1,"3,800 deposit",1 bathrooms,,"Kolar Road, Bhopal",,Furnished
+"Seller
+VERIFIED OWNER",15000,950,2,No Deposit,2 bathrooms,,"Kolar Road, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",11000,1000,3,"11,000 deposit",3 bathrooms,,"Avinash Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",35000,1500,3,No Deposit,2 bathrooms,,"Shivaji Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",20000,850,2,"40,000 deposit",2 bathrooms,,"Bagmugalia, Bhopal",Centurion Sky,Furnished
+"Seller
+VERIFIED OWNER",7000,600,2,"14,000 deposit",2 bathrooms,,"Awadhpuri, Bhopal",,Unfurnished
+"Seller
+VERIFIED OWNER",8500,700,1,No Deposit,1 bathrooms,,"Eco Green City, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",17000,850,3,"17,000 deposit",3 bathrooms,,"Jatkhedi, Bhopal",Asnani Aashima Anupama City Phase 1,Unfurnished
+"Seller
+VERIFIED OWNER",15000,950,3,"30,000 deposit",2 bathrooms,,"Misrod, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",8000,1000,2,"8,000 deposit",2 bathrooms,,"Kolar Road, Bhopal",,Unfurnished
+"MakaanMalikkhcom
+AGENT
+0",50000,3200,4,No Deposit,4 bathrooms,West facing,"Chuna Bhatti, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",14000,1400,4,No Deposit,4 bathrooms,West facing,"Kolar Road, Bhopal",,Semi-Furnished
+"MISTY Property
+AGENT
+0",22000,2000,3,No Deposit,2 bathrooms,,"Bagmugalia, Bhopal",,Furnished
+"Max Realty
+AGENT
+0",55000,2074,3,No Deposit,4 bathrooms,,"Arera Colony, Bhopal",MP Kilandev Towers,Furnished
+"Freelife System Pvt Ltd
+AGENT
+0",12000,650,2,"12,000 deposit",2 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"AP Reality
+AGENT
+0",27000,1800,3,No Deposit,3 bathrooms,,"Gulmohar Colony, Bhopal",,Semi-Furnished
+"Sai Properties
+AGENT
+0",38000,1613,4,"76,000 deposit",4 bathrooms,,"Hoshangabad Road, Bhopal",Globus Coral Woods,Furnished
+"Circle Property Rental Service
+AGENT
+0",18500,2250,3,"18,500 deposit",3 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"Sandeep Sangwan
+AGENT
+0",12000,950,3,No Deposit,2 bathrooms,East facing,"Ayodhya Nagar, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",22000,1750,3,No Deposit,3 bathrooms,West facing,"Kolar Road, Bhopal",Sage Sagar Green Hills,Furnished
+"Seller
+VERIFIED OWNER",3800,150,1,"3,800 deposit",1 bathrooms,,"Kolar Road, Bhopal",,Furnished
+"Seller
+VERIFIED OWNER",15000,950,2,No Deposit,2 bathrooms,,"Kolar Road, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",11000,1000,3,"11,000 deposit",3 bathrooms,,"Avinash Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",35000,1500,3,No Deposit,2 bathrooms,,"Shivaji Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",20000,850,2,"40,000 deposit",2 bathrooms,,"Bagmugalia, Bhopal",Centurion Sky,Furnished
+"Seller
+VERIFIED OWNER",7000,600,2,"14,000 deposit",2 bathrooms,,"Awadhpuri, Bhopal",,Unfurnished
+"Seller
+VERIFIED OWNER",8500,700,1,No Deposit,1 bathrooms,,"Eco Green City, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",17000,850,3,"17,000 deposit",3 bathrooms,,"Jatkhedi, Bhopal",Asnani Aashima Anupama City Phase 1,Unfurnished
+"Seller
+VERIFIED OWNER",15000,950,3,"30,000 deposit",2 bathrooms,,"Misrod, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",8000,1000,2,"8,000 deposit",2 bathrooms,,"Kolar Road, Bhopal",,Unfurnished
+"MakaanMalikkhcom
+AGENT
+0",50000,3200,4,No Deposit,4 bathrooms,West facing,"Chuna Bhatti, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",14000,1400,4,No Deposit,4 bathrooms,West facing,"Kolar Road, Bhopal",,Semi-Furnished
+"MISTY Property
+AGENT
+0",22000,2000,3,No Deposit,2 bathrooms,,"Bagmugalia, Bhopal",,Furnished
+"Max Realty
+AGENT
+0",55000,2074,3,No Deposit,4 bathrooms,,"Arera Colony, Bhopal",MP Kilandev Towers,Furnished
+"Freelife System Pvt Ltd
+AGENT
+0",12000,650,2,"12,000 deposit",2 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"AP Reality
+AGENT
+0",27000,1800,3,No Deposit,3 bathrooms,,"Gulmohar Colony, Bhopal",,Semi-Furnished
+"Sai Properties
+AGENT
+0",38000,1613,4,"76,000 deposit",4 bathrooms,,"Hoshangabad Road, Bhopal",Globus Coral Woods,Furnished
+"Circle Property Rental Service
+AGENT
+0",18500,2250,3,"18,500 deposit",3 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"Sandeep Sangwan
+AGENT
+0",12000,950,3,No Deposit,2 bathrooms,East facing,"Ayodhya Nagar, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",22000,1750,3,No Deposit,3 bathrooms,West facing,"Kolar Road, Bhopal",Sage Sagar Green Hills,Furnished
+"Seller
+VERIFIED OWNER",3800,150,1,"3,800 deposit",1 bathrooms,,"Kolar Road, Bhopal",,Furnished
+"Seller
+VERIFIED OWNER",15000,950,2,No Deposit,2 bathrooms,,"Kolar Road, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",11000,1000,3,"11,000 deposit",3 bathrooms,,"Avinash Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",35000,1500,3,No Deposit,2 bathrooms,,"Shivaji Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",20000,850,2,"40,000 deposit",2 bathrooms,,"Bagmugalia, Bhopal",Centurion Sky,Furnished
+"Seller
+VERIFIED OWNER",7000,600,2,"14,000 deposit",2 bathrooms,,"Awadhpuri, Bhopal",,Unfurnished
+"Seller
+VERIFIED OWNER",8500,700,1,No Deposit,1 bathrooms,,"Eco Green City, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",17000,850,3,"17,000 deposit",3 bathrooms,,"Jatkhedi, Bhopal",Asnani Aashima Anupama City Phase 1,Unfurnished
+"Seller
+VERIFIED OWNER",15000,950,3,"30,000 deposit",2 bathrooms,,"Misrod, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",8000,1000,2,"8,000 deposit",2 bathrooms,,"Kolar Road, Bhopal",,Unfurnished
+"MakaanMalikkhcom
+AGENT
+0",50000,3200,4,No Deposit,4 bathrooms,West facing,"Chuna Bhatti, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",14000,1400,4,No Deposit,4 bathrooms,West facing,"Kolar Road, Bhopal",,Semi-Furnished
+"MISTY Property
+AGENT
+0",22000,2000,3,No Deposit,2 bathrooms,,"Bagmugalia, Bhopal",,Furnished
+"Max Realty
+AGENT
+0",55000,2074,3,No Deposit,4 bathrooms,,"Arera Colony, Bhopal",MP Kilandev Towers,Furnished
+"Freelife System Pvt Ltd
+AGENT
+0",12000,650,2,"12,000 deposit",2 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"AP Reality
+AGENT
+0",27000,1800,3,No Deposit,3 bathrooms,,"Gulmohar Colony, Bhopal",,Semi-Furnished
+"Sai Properties
+AGENT
+0",38000,1613,4,"76,000 deposit",4 bathrooms,,"Hoshangabad Road, Bhopal",Globus Coral Woods,Furnished
+"Circle Property Rental Service
+AGENT
+0",18500,2250,3,"18,500 deposit",3 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"Sandeep Sangwan
+AGENT
+0",12000,950,3,No Deposit,2 bathrooms,East facing,"Ayodhya Nagar, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",22000,1750,3,No Deposit,3 bathrooms,West facing,"Kolar Road, Bhopal",Sage Sagar Green Hills,Furnished
+"Seller
+VERIFIED OWNER",3800,150,1,"3,800 deposit",1 bathrooms,,"Kolar Road, Bhopal",,Furnished
+"Seller
+VERIFIED OWNER",15000,950,2,No Deposit,2 bathrooms,,"Kolar Road, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",11000,1000,3,"11,000 deposit",3 bathrooms,,"Avinash Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",35000,1500,3,No Deposit,2 bathrooms,,"Shivaji Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",20000,850,2,"40,000 deposit",2 bathrooms,,"Bagmugalia, Bhopal",Centurion Sky,Furnished
+"Seller
+VERIFIED OWNER",7000,600,2,"14,000 deposit",2 bathrooms,,"Awadhpuri, Bhopal",,Unfurnished
+"Seller
+VERIFIED OWNER",8500,700,1,No Deposit,1 bathrooms,,"Eco Green City, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",17000,850,3,"17,000 deposit",3 bathrooms,,"Jatkhedi, Bhopal",Asnani Aashima Anupama City Phase 1,Unfurnished
+"Seller
+VERIFIED OWNER",15000,950,3,"30,000 deposit",2 bathrooms,,"Misrod, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",8000,1000,2,"8,000 deposit",2 bathrooms,,"Kolar Road, Bhopal",,Unfurnished
+"MakaanMalikkhcom
+AGENT
+0",50000,3200,4,No Deposit,4 bathrooms,West facing,"Chuna Bhatti, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",14000,1400,4,No Deposit,4 bathrooms,West facing,"Kolar Road, Bhopal",,Semi-Furnished
+"MISTY Property
+AGENT
+0",22000,2000,3,No Deposit,2 bathrooms,,"Bagmugalia, Bhopal",,Furnished
+"Max Realty
+AGENT
+0",55000,2074,3,No Deposit,4 bathrooms,,"Arera Colony, Bhopal",MP Kilandev Towers,Furnished
+"Freelife System Pvt Ltd
+AGENT
+0",12000,650,2,"12,000 deposit",2 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"AP Reality
+AGENT
+0",27000,1800,3,No Deposit,3 bathrooms,,"Gulmohar Colony, Bhopal",,Semi-Furnished
+"Sai Properties
+AGENT
+0",38000,1613,4,"76,000 deposit",4 bathrooms,,"Hoshangabad Road, Bhopal",Globus Coral Woods,Furnished
+"Circle Property Rental Service
+AGENT
+0",18500,2250,3,"18,500 deposit",3 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"Sandeep Sangwan
+AGENT
+0",12000,950,3,No Deposit,2 bathrooms,East facing,"Ayodhya Nagar, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",22000,1750,3,No Deposit,3 bathrooms,West facing,"Kolar Road, Bhopal",Sage Sagar Green Hills,Furnished
+"Seller
+VERIFIED OWNER",3800,150,1,"3,800 deposit",1 bathrooms,,"Kolar Road, Bhopal",,Furnished
+"Seller
+VERIFIED OWNER",15000,950,2,No Deposit,2 bathrooms,,"Kolar Road, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",11000,1000,3,"11,000 deposit",3 bathrooms,,"Avinash Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",35000,1500,3,No Deposit,2 bathrooms,,"Shivaji Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",20000,850,2,"40,000 deposit",2 bathrooms,,"Bagmugalia, Bhopal",Centurion Sky,Furnished
+"Seller
+VERIFIED OWNER",7000,600,2,"14,000 deposit",2 bathrooms,,"Awadhpuri, Bhopal",,Unfurnished
+"Seller
+VERIFIED OWNER",8500,700,1,No Deposit,1 bathrooms,,"Eco Green City, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",17000,850,3,"17,000 deposit",3 bathrooms,,"Jatkhedi, Bhopal",Asnani Aashima Anupama City Phase 1,Unfurnished
+"Seller
+VERIFIED OWNER",15000,950,3,"30,000 deposit",2 bathrooms,,"Misrod, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",8000,1000,2,"8,000 deposit",2 bathrooms,,"Kolar Road, Bhopal",,Unfurnished
+"MakaanMalikkhcom
+AGENT
+0",50000,3200,4,No Deposit,4 bathrooms,West facing,"Chuna Bhatti, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",14000,1400,4,No Deposit,4 bathrooms,West facing,"Kolar Road, Bhopal",,Semi-Furnished
+"MISTY Property
+AGENT
+0",22000,2000,3,No Deposit,2 bathrooms,,"Bagmugalia, Bhopal",,Furnished
+"Max Realty
+AGENT
+0",55000,2074,3,No Deposit,4 bathrooms,,"Arera Colony, Bhopal",MP Kilandev Towers,Furnished
+"Freelife System Pvt Ltd
+AGENT
+0",12000,650,2,"12,000 deposit",2 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"AP Reality
+AGENT
+0",27000,1800,3,No Deposit,3 bathrooms,,"Gulmohar Colony, Bhopal",,Semi-Furnished
+"Sai Properties
+AGENT
+0",38000,1613,4,"76,000 deposit",4 bathrooms,,"Hoshangabad Road, Bhopal",Globus Coral Woods,Furnished
+"Circle Property Rental Service
+AGENT
+0",18500,2250,3,"18,500 deposit",3 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"Sandeep Sangwan
+AGENT
+0",12000,950,3,No Deposit,2 bathrooms,East facing,"Ayodhya Nagar, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",22000,1750,3,No Deposit,3 bathrooms,West facing,"Kolar Road, Bhopal",Sage Sagar Green Hills,Furnished
+"Seller
+VERIFIED OWNER",3800,150,1,"3,800 deposit",1 bathrooms,,"Kolar Road, Bhopal",,Furnished
+"Seller
+VERIFIED OWNER",15000,950,2,No Deposit,2 bathrooms,,"Kolar Road, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",11000,1000,3,"11,000 deposit",3 bathrooms,,"Avinash Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",35000,1500,3,No Deposit,2 bathrooms,,"Shivaji Nagar, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",20000,850,2,"40,000 deposit",2 bathrooms,,"Bagmugalia, Bhopal",Centurion Sky,Furnished
+"Seller
+VERIFIED OWNER",7000,600,2,"14,000 deposit",2 bathrooms,,"Awadhpuri, Bhopal",,Unfurnished
+"Seller
+VERIFIED OWNER",8500,700,1,No Deposit,1 bathrooms,,"Eco Green City, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",17000,850,3,"17,000 deposit",3 bathrooms,,"Jatkhedi, Bhopal",Asnani Aashima Anupama City Phase 1,Unfurnished
+"Seller
+VERIFIED OWNER",15000,950,3,"30,000 deposit",2 bathrooms,,"Misrod, Bhopal",,Semi-Furnished
+"Seller
+VERIFIED OWNER",8000,1000,2,"8,000 deposit",2 bathrooms,,"Kolar Road, Bhopal",,Unfurnished
+"MakaanMalikkhcom
+AGENT
+0",50000,3200,4,No Deposit,4 bathrooms,West facing,"Chuna Bhatti, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",14000,1400,4,No Deposit,4 bathrooms,West facing,"Kolar Road, Bhopal",,Semi-Furnished
+"MISTY Property
+AGENT
+0",22000,2000,3,No Deposit,2 bathrooms,,"Bagmugalia, Bhopal",,Furnished
+"Max Realty
+AGENT
+0",55000,2074,3,No Deposit,4 bathrooms,,"Arera Colony, Bhopal",MP Kilandev Towers,Furnished
+"Freelife System Pvt Ltd
+AGENT
+0",12000,650,2,"12,000 deposit",2 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"AP Reality
+AGENT
+0",27000,1800,3,No Deposit,3 bathrooms,,"Gulmohar Colony, Bhopal",,Semi-Furnished
+"Sai Properties
+AGENT
+0",38000,1613,4,"76,000 deposit",4 bathrooms,,"Hoshangabad Road, Bhopal",Globus Coral Woods,Furnished
+"Circle Property Rental Service
+AGENT
+0",18500,2250,3,"18,500 deposit",3 bathrooms,,"minal residency, Bhopal",,Semi-Furnished
+"Sandeep Sangwan
+AGENT
+0",12000,950,3,No Deposit,2 bathrooms,East facing,"Ayodhya Nagar, Bhopal",,Semi-Furnished
+"Ananta Property
+AGENT
+0",22000,1750,3,No Deposit,3 bathrooms,West facing,"Kolar Road, Bhopal",Sage Sagar Green Hills,Furnished
