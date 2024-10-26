@@ -1,74 +1,25 @@
-Rent Prediction Project
-Overview
-The Rent Prediction Project aims to forecast rental prices for properties based on various features, helping tenants find affordable housing and assisting investors in making informed decisions. This project utilizes machine learning techniques to analyze data collected from rental listings and predict future rental prices.
+<h1 align="center" id="title">Rent Prediction Project</h1>
 
-Table of Contents
-Features
-Technologies Used
-Data Collection
-Data Preprocessing
-Model Building
-Evaluation
-Deployment
-Getting Started
-License
-Features
-Predicts rental prices based on property features such as location, size, and amenities.
-Provides insights into rental trends across major cities.
-Utilizes various machine learning algorithms for model training and evaluation.
-Technologies Used
-Python
-Pandas
-NumPy
-Scikit-learn
-Selenium
-Flask
-AWS EC2
-XGBoost, CatBoost, and other ML libraries
-Data Collection
-Data was collected by scraping rental listings from Makan.com using Selenium. The dataset includes information on rental prices, property features, and location details.
+<p align="center"><img src="https://socialify.git.ci/Kasary45/project_ml/image?font=Source%20Code%20Pro&amp;language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
-Data Preprocessing
-Data Cleaning: Removed duplicates and irrelevant entries.
-Outlier Detection: Identified and handled outliers to improve model accuracy.
-Encoding Categorical Variables: Used LabelEncoder from scikit-learn to encode categorical features such as city, class, and furnished status.
-Feature Engineering: Created new features to enhance model performance, including rent per area.
-Model Building
-The project employed multiple machine learning models, including:
+<p id="description">The Rent Prediction Project aims to forecast rental prices for properties based on various features helping tenants find affordable housing and assisting investors in making informed decisions. This project utilizes machine learning techniques to analyze data collected from rental listings and predict future rental prices.</p>
 
-Linear Regression
-Decision Trees
-Random Forest
-XGBoost
-CatBoost
-The Decision Tree Regressor was selected as the final model based on its performance metrics.
+<h2>🚀 Demo</h2>
 
-Evaluation
-The model was evaluated using metrics such as:
+[http://13.234.38.160:4000/]( http://13.234.38.160:4000/)
 
-Mean Absolute Error (MAE)
-Mean Squared Error (MSE)
-R-squared score
-Deployment
-The model is deployed using Flask on an AWS EC2 instance, enabling real-time predictions through a web application.
+  
+  
+<h2>🧐 Features</h2>
 
-Getting Started
-To run this project locally, follow these steps:
+Here're some of the project's best features:
 
-Clone the repository:
+*   Predicts rental prices based on property features such as location size and amenities. Provides insights into rental trends across major cities. Utilizes various machine learning algorithms for model training and evaluation.
 
-bash
-Copy code
-git clone [repository-url]
-cd rent-prediction-project
-Install the required dependencies:
+  
+  
+<h2>💻 Built with</h2>
 
-bash
-Copy code
-pip install -r requirements.txt
-Run the Flask application:
+Technologies used in the project:
 
-bash
-Copy code
-python app.py
-Access the web application in your browser at http://13.234.38.160:4000/
+*   Python Pandas NumPy Scikit-learn Selenium Flask AWS EC2 XGBoost CatBoost and other ML libraries Data Collection Data was collected by scraping rental listings from Makan.com using Selenium. The dataset includes information on rental prices property features and location details.
